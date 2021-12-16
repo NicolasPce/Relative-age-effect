@@ -1,0 +1,981 @@
+,short_name,player_positions,overall,nationality_name,age,dob,league_name,height_cm,weight_kg,year,month,day,trimestre
+6,K. MbappÃ©,"ST, LW",91,France,22,1998-12-20,French Ligue 1,182,73,1998,12,20,4
+10,N. KantÃ©,"CDM, CM",90,France,30,1991-03-29,English Premier League,168,70,1991,3,29,1
+11,K. Benzema,"CF, ST",89,France,33,1987-12-19,Spain Primera Division,185,81,1987,12,19,4
+31,H. Lloris,GK,87,France,34,1986-12-26,English Premier League,188,82,1986,12,26,4
+37,P. Pogba,"CM, LM",87,France,28,1993-03-15,English Premier League,191,84,1993,3,15,1
+57,R. Varane,CB,86,France,28,1993-04-25,English Premier League,191,81,1993,4,25,2
+64,K. Coman,"LM, RM, LW",86,France,25,1996-06-13,German 1. Bundesliga,180,76,1996,6,13,2
+83,A. Griezmann,"ST, LW, RW",85,France,30,1991-03-21,Spain Primera Division,176,73,1991,3,21,1
+110,W. Ben Yedder,ST,84,France,30,1990-08-12,French Ligue 1,170,68,1990,8,12,3
+111,L. Digne,LB,84,France,27,1993-07-20,English Premier League,178,74,1993,7,20,3
+127,M. Maignan,GK,84,France,25,1995-07-03,Italian Serie A,191,89,1995,7,3,3
+131,N. Fekir,"CAM, RM, ST",84,France,27,1993-07-18,Spain Primera Division,173,75,1993,7,18,3
+137,T. HernÃ¡ndez,LB,84,France,23,1997-10-06,Italian Serie A,184,81,1997,10,6,4
+175,T. Lemar,"LM, CM, RM",83,France,25,1995-11-12,Spain Primera Division,171,66,1995,11,12,4
+181,L. HernÃ¡ndez,"LB, CB",83,France,25,1996-02-14,German 1. Bundesliga,184,79,1996,2,14,1
+186,P. Kimpembe,CB,83,France,25,1995-08-13,French Ligue 1,189,80,1995,8,13,3
+187,F. Mendy,LB,83,France,26,1995-06-08,Spain Primera Division,180,73,1995,6,8,2
+192,O. DembÃ©lÃ©,RW,83,France,24,1997-05-15,Spain Primera Division,178,67,1997,5,15,2
+197,J. KoundÃ©,CB,83,France,22,1998-11-12,Spain Primera Division,181,75,1998,11,12,4
+216,A. Areola,GK,82,France,28,1993-02-27,English Premier League,195,94,1993,2,27,1
+218,A. Lacazette,ST,82,France,30,1991-05-28,English Premier League,175,73,1991,5,28,2
+229,J. Veretout,"CDM, CM",82,France,28,1993-03-01,Italian Serie A,177,67,1993,3,1,1
+251,C. Lenglet,CB,82,France,26,1995-06-17,Spain Primera Division,186,81,1995,6,17,2
+261,D. Upamecano,CB,82,France,22,1998-10-27,German 1. Bundesliga,186,90,1998,10,27,4
+277,T. Ndombele,"CAM, CM, CDM",82,France,24,1996-12-28,English Premier League,179,76,1996,12,28,4
+287,A. Gignac,"ST, CF",81,France,35,1985-12-05,Mexican Liga MX,189,85,1985,12,5,4
+290,S. Mandanda,GK,81,France,36,1985-03-28,French Ligue 1,185,82,1985,3,28,1
+301,B. AndrÃ©,"CDM, CM",81,France,30,1990-08-03,French Ligue 1,180,74,1990,8,3,3
+323,K. Zouma,CB,81,France,26,1994-10-27,English Premier League,190,95,1994,10,27,4
+337,A. Rabiot,"CM, CDM",81,France,26,1995-04-03,Italian Serie A,192,80,1995,4,3,2
+342,A. Martial,"ST, LM",81,France,25,1995-12-05,English Premier League,184,76,1995,12,5,4
+361,N. Mukiele,"RWB, CB, RM",81,France,23,1997-11-01,German 1. Bundesliga,187,84,1997,11,1,4
+373,C. Nkunku,"CAM, CM, CF",81,France,23,1997-11-14,German 1. Bundesliga,179,72,1997,11,14,4
+377,H. Aouar,"CM, CAM",81,France,23,1998-06-30,French Ligue 1,175,70,1998,6,30,2
+382,M. Diaby,"LW, RW",81,France,21,1999-07-07,German 1. Bundesliga,170,68,1999,7,7,3
+398,D. Payet,"LW, CAM",80,France,34,1987-03-29,French Ligue 1,175,77,1987,3,29,1
+410,F. Coquelin,"CM, CDM, RM",80,France,30,1991-05-13,Spain Primera Division,176,74,1991,5,13,2
+435,F. Thauvin,"RW, RM",80,France,28,1993-01-26,Mexican Liga MX,179,70,1993,1,26,1
+436,S. Umtiti,CB,80,France,27,1993-11-14,Spain Primera Division,182,75,1993,11,14,4
+437,T. Savanier,"CM, CAM",80,France,29,1991-12-22,French Ligue 1,172,69,1991,12,22,4
+445,G. Laborde,"ST, RM",80,France,27,1994-05-03,French Ligue 1,181,78,1994,5,3,2
+458,C. Tolisso,"CM, CDM",80,France,26,1994-08-03,German 1. Bundesliga,181,81,1994,8,3,3
+471,J. Bamba,LM,80,France,25,1996-03-26,French Ligue 1,175,70,1996,3,26,1
+496,B. Kamara,"CDM, CB",80,France,21,1999-11-23,French Ligue 1,184,68,1999,11,23,4
+511,F. RibÃ©ry,"CF, LW",79,France,38,1983-04-07,Italian Serie A,170,72,1983,4,7,2
+512,B. Costil,GK,79,France,33,1987-07-03,French Ligue 1,187,82,1987,7,3,3
+513,B. Gomis,ST,79,France,35,1985-08-06,Saudi Abdul L. Jameel League,186,86,1985,8,6,3
+515,B. Matuidi,"CDM, CM",79,France,34,1987-04-09,USA Major League Soccer,180,75,1987,4,9,2
+520,O. Giroud,ST,79,France,34,1986-09-30,Italian Serie A,193,91,1986,9,30,3
+523,Y. M'Vila,"CDM, CM, CB",79,France,31,1990-06-29,Greek Super League,182,80,1990,6,29,2
+554,B. Lecomte,GK,79,France,30,1991-04-26,Spain Primera Division,187,78,1991,4,26,2
+569,B. Mendy,LB,79,France,26,1994-07-17,English Premier League,185,85,1994,7,17,3
+572,A. Plea,"ST, LW",79,France,28,1993-03-10,German 1. Bundesliga,181,79,1993,3,10,1
+577,A. DoucourÃ©,"CM, CDM",79,France,28,1993-01-01,English Premier League,184,76,1993,1,1,1
+596,A. Saint-Maximin,"LM, ST",79,France,24,1997-03-12,English Premier League,173,67,1997,3,12,1
+600,T. Bakayoko,"CDM, CM",79,France,26,1994-08-17,Italian Serie A,189,85,1994,8,17,3
+610,R. Aguilar,RB,79,France,28,1993-04-26,French Ligue 1,172,71,1993,4,26,2
+621,B. Pavard,"RB, CB",79,France,25,1996-03-28,German 1. Bundesliga,186,81,1996,3,28,1
+622,M. Thuram,"LM, ST",79,France,23,1997-08-06,German 1. Bundesliga,192,88,1997,8,6,3
+639,J. IkonÃ©,"RM, ST",79,France,23,1998-05-02,French Ligue 1,175,73,1998,5,2,2
+653,A. TchouamÃ©ni,"CM, CDM",79,France,21,2000-01-27,French Ligue 1,187,81,2000,1,27,1
+657,M. Lacroix,CB,79,France,21,2000-04-06,German 1. Bundesliga,190,88,2000,4,6,2
+669,L. Koscielny,CB,78,France,35,1985-09-10,French Ligue 1,186,80,1985,9,10,3
+683,E. Capoue,"CM, CDM",78,France,32,1988-07-11,Spain Primera Division,190,80,1988,7,11,3
+689,M. Sissoko,"CDM, CM",78,France,31,1989-08-16,English Premier League,187,91,1989,8,16,3
+695,S. Nzonzi,"CDM, CM",78,France,32,1988-12-15,Italian Serie A,196,89,1988,12,15,4
+725,D. SidibÃ©,"RB, CB",78,France,28,1992-07-29,French Ligue 1,182,71,1992,7,29,3
+746,F. Mollet,"CAM, CM",78,France,29,1991-11-19,French Ligue 1,170,67,1991,11,19,4
+754,M. DembÃ©lÃ©,ST,78,France,24,1996-07-12,French Ligue 1,183,79,1996,7,12,3
+766,B. Bourigeaud,"CM, LM",78,France,27,1994-01-14,French Ligue 1,178,68,1994,1,14,1
+772,L. Dubois,RB,78,France,26,1994-09-14,French Ligue 1,178,65,1994,9,14,3
+775,S. Gigot,CB,78,France,27,1993-10-12,Russian Premier League,187,83,1993,10,12,4
+776,L. Ajorque,ST,78,France,27,1994-02-25,French Ligue 1,197,92,1994,2,25,1
+777,B. Santamaria,"CDM, CM",78,France,26,1995-03-09,French Ligue 1,183,73,1995,3,9,1
+797,A. Fulgini,"CAM, CM, RM",78,France,24,1996-08-20,French Ligue 1,183,71,1996,8,20,3
+821,A. Lafont,GK,78,France,22,1999-01-23,French Ligue 1,196,90,1999,1,23,1
+825,R. Le Normand,CB,78,France,24,1996-11-11,Spain Primera Division,187,81,1996,11,11,4
+832,I. KonatÃ©,CB,78,France,22,1999-05-25,English Premier League,194,95,1999,5,25,2
+835,D. Zagadou,CB,78,France,22,1999-06-03,German 1. Bundesliga,196,90,1999,6,3,2
+839,B. SoumarÃ©,"CDM, CM",78,France,22,1999-02-27,English Premier League,188,82,1999,2,27,1
+841,A. Gouiri,"ST, LM",78,France,21,2000-02-16,French Ligue 1,180,72,2000,2,16,1
+853,Y. Fofana,"CM, CDM",78,France,22,1999-01-10,French Ligue 1,176,69,1999,1,10,1
+857,M. Caqueret,"CM, CDM",78,France,21,2000-02-15,French Ligue 1,174,63,2000,2,15,1
+859,E. Camavinga,"CM, CDM",78,France,18,2002-11-10,Spain Primera Division,182,68,2002,11,10,4
+860,W. Fofana,CB,78,France,20,2000-12-17,English Premier League,190,76,2000,12,17,4
+877,K. Gameiro,ST,77,France,34,1987-05-09,French Ligue 1,172,70,1987,5,9,2
+878,M. Valbuena,"LW, CAM",77,France,36,1984-09-28,Greek Super League,167,58,1984,9,28,3
+880,D. Da Silva,CB,77,France,33,1988-05-17,French Ligue 1,184,83,1988,5,17,2
+918,F. Lejeune,CB,77,France,30,1991-05-20,Spain Primera Division,189,81,1991,5,20,2
+919,J. Guilavogui,"CDM, CM, CB",77,France,30,1990-09-19,German 1. Bundesliga,188,77,1990,9,19,3
+938,J. Roussillon,"LB, LM",77,France,28,1993-01-06,German 1. Bundesliga,175,80,1993,1,6,1
+940,G. Defrel,"CAM, ST, LW",77,France,30,1991-06-17,Italian Serie A,179,77,1991,6,17,2
+941,D. Foulquier,"RB, RM, LB",77,France,28,1993-03-23,Spain Primera Division,183,78,1993,3,23,1
+965,N. Maupay,ST,77,France,24,1996-08-14,English Premier League,173,69,1996,8,14,3
+982,S. Guirassy,ST,77,France,25,1996-03-12,French Ligue 1,187,82,1996,3,12,1
+993,J. Amavi,LB,77,France,27,1994-03-09,French Ligue 1,176,70,1994,3,9,1
+1008,V. Rongier,"CM, CDM",77,France,26,1994-12-07,French Ligue 1,172,70,1994,12,7,4
+1009,P. Bernardoni,GK,77,France,24,1997-04-18,French Ligue 1,190,78,1997,4,18,2
+1034,A. Disasi,CB,77,France,23,1998-03-11,French Ligue 1,190,86,1998,3,11,1
+1035,F. Centonze,"RWB, RB",77,France,25,1996-01-16,French Ligue 1,182,75,1996,1,16,1
+1036,F. Maouassa,LB,77,France,22,1998-07-06,Belgian Jupiler Pro League,170,73,1998,7,6,3
+1054,L. Blas,"CAM, RM",77,France,23,1997-12-31,French Ligue 1,180,70,1997,12,31,4
+1055,R. Perraud,LB,77,France,23,1997-09-22,English Premier League,173,68,1997,9,22,3
+1059,I. Diop,CB,77,France,24,1997-01-09,English Premier League,194,92,1997,1,9,1
+1073,V. Rosier,RB,77,France,24,1996-08-19,Turkish SÃ¼per Lig,175,75,1996,8,19,3
+1082,E. Ndicka,"CB, LB",77,France,21,1999-08-20,German 1. Bundesliga,192,80,1999,8,20,3
+1084,A. Claude-Maurice,"CAM, CM",77,France,23,1998-06-06,French Ligue 1,175,64,1998,6,6,2
+1085,M. Guendouzi,"CDM, CM",77,France,22,1999-04-14,French Ligue 1,185,68,1999,4,14,2
+1091,M. Terrier,"ST, LW",77,France,24,1997-03-04,French Ligue 1,184,73,1997,3,4,1
+1098,J. Clauss,"RWB, RW",77,France,28,1992-09-25,French Ligue 1,178,67,1992,9,25,3
+1111,I. Meslier,GK,77,France,21,2000-03-02,English Premier League,196,74,2000,3,2,1
+1118,S. Diop,"LM, RM, CF",77,France,21,2000-06-09,French Ligue 1,175,65,2000,6,9,2
+1144,G. Clichy,LB,76,France,35,1985-07-26,Swiss Super League,176,65,1985,7,26,3
+1171,R. Thomas,CB,76,France,33,1988-06-12,French Ligue 1,193,84,1988,6,12,2
+1193,M. Gonalons,"CDM, CM",76,France,32,1989-03-10,Spain Primera Division,187,76,1989,3,10,1
+1196,X. Chavalerin,"CDM, CM",76,France,30,1991-03-07,French Ligue 1,178,66,1991,3,7,1
+1205,N. Pallois,CB,76,France,33,1987-09-19,French Ligue 1,189,89,1987,9,19,3
+1220,L. Kurzawa,LB,76,France,28,1992-09-04,French Ligue 1,182,74,1992,9,4,3
+1224,J. Schmid,"RB, RM, RWB",76,France,31,1990-06-22,German 1. Bundesliga,179,80,1990,6,22,2
+1230,T. Delaine,"LWB, LB, RB",76,France,29,1992-03-24,French Ligue 1,180,70,1992,3,24,1
+1232,K. Lala,"RB, RWB",76,France,29,1991-10-03,Greek Super League,178,78,1991,10,3,4
+1243,S. MeÃ¯tÃ©,"CM, CDM",76,France,27,1994-03-17,Portuguese Liga ZON SAGRES,187,80,1994,3,17,1
+1252,J. Ferri,"CDM, CM",76,France,29,1992-03-12,French Ligue 1,173,73,1992,3,12,1
+1267,A. Thomasson,"CAM, CM",76,France,27,1993-12-10,French Ligue 1,177,72,1993,12,10,4
+1277,M. Sanson,CM,76,France,26,1994-08-18,English Premier League,180,73,1994,8,18,3
+1295,F. Tait,"LM, LW, CM",76,France,28,1993-02-02,French Ligue 1,175,70,1993,2,2,1
+1321,M. Malsa,"CM, CDM",76,France,25,1995-10-12,Spain Primera Division,178,69,1995,10,12,4
+1342,M. NiakhatÃ©,CB,76,France,25,1996-03-08,German 1. Bundesliga,190,85,1996,3,8,1
+1343,O. Boscagli,"CB, LB, CDM",76,France,23,1997-11-18,Holland Eredivisie,181,68,1997,11,18,4
+1351,F. Guilbert,"RB, RWB",76,France,26,1994-12-24,French Ligue 1,178,78,1994,12,24,4
+1352,L. Tousart,"CDM, CM",76,France,24,1997-04-29,German 1. Bundesliga,185,83,1997,4,29,2
+1366,P. Lees-Melou,CM,76,France,28,1993-05-25,English Premier League,186,70,1993,5,25,2
+1381,G. Larsonneur,GK,76,France,24,1997-02-23,French Ligue 1,181,70,1997,2,23,1
+1427,C. Dagba,RB,76,France,22,1998-09-09,French Ligue 1,170,62,1998,9,9,3
+1428,P. Gueye,"CDM, CM",76,France,22,1999-01-24,French Ligue 1,187,79,1999,1,24,1
+1434,B. Badiashile,CB,76,France,20,2001-03-26,French Ligue 1,194,75,2001,3,26,1
+1449,J. Todibo,CB,76,France,21,1999-12-30,French Ligue 1,190,88,1999,12,30,4
+1473,J. Leca,GK,75,France,35,1985-09-21,French Ligue 1,180,75,1985,9,21,3
+1478,M. Debuchy,RB,75,France,35,1985-07-28,French Ligue 2,176,76,1985,7,28,3
+1496,J. Babin,CB,75,France,34,1986-10-14,Spanish Segunda DivisiÃ³n,183,88,1986,10,14,4
+1500,M. Schneiderlin,"CDM, CM",75,France,31,1989-11-08,French Ligue 1,186,79,1989,11,8,4
+1511,M. Sakho,CB,75,France,31,1990-02-13,French Ligue 1,187,83,1990,2,13,1
+1518,R. Alessandrini,"ST, RM",75,France,32,1989-04-03,Chinese Super League,173,70,1989,4,3,2
+1565,R. Hamouma,"ST, RM",75,France,34,1987-03-29,French Ligue 1,178,76,1987,3,29,1
+1597,A. Soumaoro,CB,75,France,29,1992-06-18,Italian Serie A,187,91,1992,6,18,2
+1620,B. Sarr,"RB, RM",75,France,29,1992-01-31,German 1. Bundesliga,177,69,1992,1,31,1
+1650,C. Jullien,CB,75,France,28,1993-03-22,Scottish Premiership,196,88,1993,3,22,1
+1653,R. Ripart,"ST, LM, CM",75,France,28,1993-03-14,French Ligue 1,181,73,1993,3,14,1
+1654,P. Capelle,"RM, CM, LB",75,France,34,1987-04-15,French Ligue 1,181,73,1987,4,15,2
+1668,I. Amadou,"CDM, CB, CM",75,France,28,1993-04-06,Spain Primera Division,183,81,1993,4,6,2
+1680,A. Tameze,"CDM, CM",75,France,27,1994-02-04,Italian Serie A,180,78,1994,2,4,1
+1681,L. Abergel,"CDM, CM",75,France,28,1993-02-01,French Ligue 1,170,65,1993,2,1,1
+1730,G. Nkoudou,"LM, LW",75,France,26,1995-02-13,Turkish SÃ¼per Lig,172,75,1995,2,13,1
+1737,F. Honorat,"RM, LM",75,France,24,1996-08-11,French Ligue 1,180,70,1996,8,11,3
+1745,J. Gradit,"CB, RB",75,France,28,1992-11-24,French Ligue 1,180,75,1992,11,24,4
+1762,J. Sambia,RB,75,France,24,1996-09-07,French Ligue 1,185,73,1996,9,7,3
+1767,M. Lopez,CM,75,France,23,1997-12-04,Italian Serie A,167,58,1997,12,4,4
+1804,J. Reine-AdÃ©laÃ¯de,"CM, CAM, RW",75,France,23,1998-01-17,French Ligue 1,184,75,1998,1,17,1
+1850,R. Del Castillo,"RM, LM",75,France,25,1996-03-29,French Ligue 1,172,65,1996,3,29,1
+1853,Y. Karamoh,"RM, RW",75,France,22,1998-07-08,Turkish SÃ¼per Lig,185,77,1998,7,8,3
+1865,O. Edouard,ST,75,France,23,1998-01-16,English Premier League,187,83,1998,1,16,1
+1884,J. Mateta,ST,75,France,24,1997-06-28,English Premier League,192,88,1997,6,28,2
+1922,R. Faivre,"RM, LM",75,France,22,1998-07-14,French Ligue 1,180,69,1998,7,14,3
+1924,I. Louza,"CM, CAM, CDM",75,France,22,1999-05-01,English Premier League,178,65,1999,5,1,2
+1928,Y. Adli,"CM, CDM",75,France,20,2000-07-29,French Ligue 1,186,78,2000,7,29,3
+1929,M. Camara,"CDM, CM",75,France,23,1998-06-30,French Ligue 1,178,69,1998,6,30,2
+1931,W. Saliba,CB,75,France,20,2001-03-24,French Ligue 1,192,85,2001,3,24,1
+1932,M. Simakan,"CB, RB",75,France,21,2000-05-03,German 1. Bundesliga,187,82,2000,5,3,2
+1961,A. Truffert,"LB, LW",75,France,19,2001-11-20,French Ligue 1,173,63,2001,11,20,4
+1975,Y. Cahuzac,"CDM, CM",74,France,36,1985-01-18,French Ligue 1,178,72,1985,1,18,1
+1980,P. Baysse,CB,74,France,33,1988-05-18,French Ligue 1,185,83,1988,5,18,2
+1981,T. Mangani,"CM, CDM",74,France,34,1987-04-29,French Ligue 1,183,79,1987,4,29,2
+1985,L. RÃ©my,ST,74,France,34,1987-01-02,Turkish SÃ¼per Lig,185,82,1987,1,2,1
+2021,V. Manceau,"RB, LB, CB",74,France,31,1989-07-10,French Ligue 1,176,70,1989,7,10,3
+2023,D. Le Tallec,"CDM, CM",74,France,31,1990-04-19,Greek Super League,187,77,1990,4,19,2
+2040,A. Souquet,RB,74,France,29,1992-02-12,French Ligue 1,179,74,1992,2,12,1
+2058,K. Malcuit,RB,74,France,29,1991-07-31,Italian Serie A,178,77,1991,7,31,3
+2084,X. Mercier,"CAM, CF, CM",74,France,31,1989-07-25,Belgian Jupiler Pro League,174,71,1989,7,25,3
+2230,F. Sotoca,ST,74,France,30,1990-10-25,French Ligue 1,187,77,1990,10,25,4
+2235,A. TourÃ©,"RWB, CB, RM",74,France,25,1996-04-28,German 1. Bundesliga,183,81,1996,4,28,2
+2284,M. Cafaro,"LM, RM, CM",74,France,24,1997-03-25,French Ligue 1,178,74,1997,3,25,1
+2287,J. Gnagnon,CB,74,France,24,1997-01-13,Spain Primera Division,182,89,1997,1,13,1
+2295,T. Henry,ST,74,France,26,1994-09-20,Italian Serie A,192,86,1994,9,20,3
+2304,R. Oudin,"RM, LM",74,France,24,1996-11-18,French Ligue 1,186,81,1996,11,18,4
+2320,D. LiÃ©nard,"CM, CDM, LM",74,France,33,1988-02-13,French Ligue 1,181,77,1988,2,13,1
+2322,M. Sarr,"CB, LB",74,France,22,1999-01-23,English Premier League,182,75,1999,1,23,1
+2333,C. Michelin,"RWB, RB",74,France,24,1997-05-11,Greek Super League,178,65,1997,5,11,2
+2337,A. Caci,"LB, LWB, CB",74,France,24,1997-07-01,French Ligue 1,186,74,1997,7,1,3
+2347,R. Kolo Muani,"ST, RW, LW",74,France,22,1998-12-05,French Ligue 1,187,73,1998,12,5,4
+2381,B. Mbeumo,"RW, ST, CF",74,France,21,1999-08-07,English Premier League,171,75,1999,8,7,3
+2403,K. Thuram,"CDM, CM",74,France,20,2001-03-26,French Ligue 1,192,81,2001,3,26,1
+2415,A. Aouchiche,"LM, CAM, CM",74,France,18,2002-07-15,French Ligue 1,181,72,2002,7,15,3
+2421,L. BadÃ©,CB,74,France,21,2000-04-11,French Ligue 1,191,89,2000,4,11,2
+2433,R. Salin,GK,73,France,36,1984-07-29,French Ligue 1,189,76,1984,7,29,3
+2448,D. CongrÃ©,CB,73,France,36,1985-04-05,French Ligue 2,185,80,1985,4,5,2
+2479,S. De Maio,CB,73,France,34,1987-03-05,Italian Serie A,190,90,1987,3,5,1
+2485,F. Lemoine,"CDM, CM",73,France,34,1987-03-16,French Ligue 1,175,71,1987,3,16,1
+2510,T. Kolodziejczak,"CB, LB",73,France,29,1991-10-01,French Ligue 1,185,75,1991,10,1,4
+2523,K. ThÃ©ophile-Catherine,"CB, RB",73,France,31,1989-10-28,Croatian Prva HNL,183,86,1989,10,28,4
+2529,S. Corchia,RB,73,France,30,1990-11-01,French Ligue 1,175,67,1990,11,1,4
+2537,G. Charbonnier,"ST, CAM",73,France,32,1988-12-27,French Ligue 2,188,80,1988,12,27,4
+2542,V. Le Goff,"LB, LWB",73,France,31,1989-10-15,French Ligue 1,177,69,1989,10,15,4
+2562,B. Stambouli,"CDM, CB",73,France,30,1990-08-13,Turkish SÃ¼per Lig,180,82,1990,8,13,3
+2564,M. Autret,"CAM, CM, LM",73,France,30,1991-03-01,French Ligue 2,179,71,1991,3,1,1
+2584,N. De PrÃ©ville,"CAM, ST",73,France,30,1991-01-08,French Ligue 1,178,78,1991,1,8,1
+2585,M. Colin,"RB, RWB",73,France,29,1991-11-15,English League Championship,180,76,1991,11,15,4
+2586,M. Le Bihan,ST,73,France,31,1990-05-16,French Ligue 2,184,80,1990,5,16,2
+2599,V. Germain,"ST, RM",73,France,31,1990-04-17,French Ligue 1,181,75,1990,4,17,2
+2603,B. Reynet,GK,73,France,30,1990-10-28,French Ligue 2,185,90,1990,10,28,4
+2624,P. Nardi,GK,73,France,27,1994-05-18,French Ligue 1,188,82,1994,5,18,2
+2646,C. HÃ©relle,CB,73,France,28,1992-08-22,French Ligue 1,188,79,1992,8,22,3
+2649,J. Gastien,CDM,73,France,33,1988-01-25,French Ligue 1,179,69,1988,1,25,1
+2654,F. Tardieu,CDM,73,France,29,1992-04-22,French Ligue 1,184,70,1992,4,22,2
+2673,N. Gavory,"LB, LWB",73,France,26,1995-02-16,Belgian Jupiler Pro League,183,79,1995,2,16,1
+2688,W. Cyprien,"CM, CDM",73,France,26,1995-01-28,French Ligue 1,181,78,1995,1,28,1
+2713,G. Gallon,GK,73,France,28,1993-04-23,French Ligue 1,186,79,1993,4,23,2
+2723,A. Hunou,ST,73,France,27,1994-01-19,USA Major League Soccer,179,70,1994,1,19,1
+2726,B. Chardonnet,CB,73,France,26,1994-12-22,French Ligue 1,181,74,1994,12,22,4
+2743,J. Beauguel,ST,73,France,29,1992-03-21,Czech Republic Gambrinus Liga,196,98,1992,3,21,1
+2779,A. Zedadka,RB,73,France,26,1995-05-30,French Ligue 1,173,72,1995,5,30,2
+2817,M. Coco,"RM, LM, RW",73,France,25,1996-06-24,French Ligue 1,184,78,1996,6,24,2
+2894,M. Diakhaby,"CB, CDM",73,France,24,1996-12-19,Spain Primera Division,189,78,1996,12,19,4
+2900,K. Amian,"CB, RB",73,France,23,1998-02-08,Italian Serie A,180,78,1998,2,8,1
+2904,R. Pierre-Gabriel,RB,73,France,23,1998-06-13,French Ligue 1,177,80,1998,6,13,2
+2919,S. Alakouch,RB,73,France,22,1998-07-29,French Ligue 1,175,66,1998,7,29,3
+2942,J. Bellegarde,"CM, RM, CDM",73,France,23,1998-06-27,French Ligue 1,172,70,1998,6,27,2
+2948,I. Cardona,ST,73,France,23,1997-08-08,French Ligue 1,185,76,1997,8,8,3
+2958,A. Nordin,"RM, LM, ST",73,France,23,1998-06-17,French Ligue 1,170,69,1998,6,17,2
+2990,I. Diallo,"CDM, CM",73,France,22,1999-03-08,English Premier League,179,68,1999,3,8,1
+2993,M. Cuisance,"CM, CAM, CDM",73,France,21,1999-08-16,German 1. Bundesliga,181,74,1999,8,16,3
+2999,M. Nzola,"ST, RW",73,France,24,1996-08-18,Italian Serie A,185,82,1996,8,18,3
+3018,R. AÃ¯t Nouri,"LWB, LB",73,France,20,2001-06-06,English Premier League,179,70,2001,6,6,2
+3022,A. LaurientÃ©,"RM, RW",73,France,22,1998-12-04,French Ligue 1,171,59,1998,12,4,4
+3056,M. Olise,"CAM, RM, LM",73,France,19,2001-12-12,English Premier League,184,68,2001,12,12,4
+3061,R. Cherki,"RW, LW",73,France,17,2003-08-17,French Ligue 1,176,71,2003,8,17,3
+3064,R. Nteka,"ST, CAM, CM",73,France,23,1997-12-06,Spain Primera Division,189,75,1997,12,6,4
+3076,A. Kalimuendo,ST,73,France,19,2002-01-20,French Ligue 1,175,78,2002,1,20,1
+3079,Y. MaÃ§on,"RB, LB",73,France,22,1998-10-01,French Ligue 1,176,74,1998,10,1,4
+3095,J. Briand,ST,72,France,35,1985-08-02,French Ligue 1,181,84,1985,8,2,3
+3121,R. Gurtner,GK,72,France,34,1986-12-08,French Ligue 2,182,82,1986,12,8,4
+3125,L. Deaux,"CDM, CM",72,France,32,1988-12-26,French Ligue 2,188,82,1988,12,26,4
+3135,A. Modeste,ST,72,France,33,1988-04-14,German 1. Bundesliga,187,84,1988,4,14,2
+3139,A. Rami,CB,72,France,35,1985-12-27,French Ligue 1,190,90,1985,12,27,4
+3144,J. Pied,"RB, LB",72,France,32,1989-02-23,French Ligue 1,173,73,1989,2,23,1
+3181,Y. Ravet,"RW, RM",72,France,31,1989-09-12,French Ligue 2,177,72,1989,9,12,3
+3202,M. Le Marchand,"CB, LB",72,France,31,1989-10-11,French Ligue 1,185,78,1989,10,11,4
+3231,J. Martin,CM,72,France,31,1990-04-09,French Ligue 1,184,76,1990,4,9,2
+3247,A. Losilla,"CDM, CM, CB",72,France,35,1986-03-10,German 1. Bundesliga,185,80,1986,3,10,1
+3250,Y. Court,"RM, LM, CAM",72,France,31,1990-01-14,French Ligue 2,172,70,1990,1,14,1
+3274,V. Eysseric,"LM, CAM, CF",72,France,29,1992-03-25,Turkish SÃ¼per Lig,181,73,1992,3,25,1
+3295,M. DupÃ©,GK,72,France,28,1993-03-04,French Ligue 2,186,85,1993,3,4,1
+3320,T. DingomÃ©,"CM, CAM",72,France,30,1991-02-17,French Ligue 1,174,71,1991,2,17,1
+3347,A. TourÃ©,"CDM, CM",72,France,27,1994-03-03,Italian Serie A,188,84,1994,3,3,1
+3417,R. Dugimont,"LM, CAM, ST",72,France,35,1986-07-01,French Ligue 2,182,75,1986,7,1,3
+3439,T. Didillon,GK,72,France,25,1995-11-28,Belgian Jupiler Pro League,189,88,1995,11,28,4
+3454,E. Crivelli,"ST, LW",72,France,26,1995-02-06,Turkish SÃ¼per Lig,184,84,1995,2,6,1
+3464,J. Prior,GK,72,France,25,1995-08-08,Spanish Segunda DivisiÃ³n,187,86,1995,8,8,3
+3472,A. Blin,"CDM, CM",72,France,24,1996-09-16,Italian Serie B,184,78,1996,9,16,3
+3479,A. BrianÃ§on,CB,72,France,26,1994-11-29,French Ligue 2,185,79,1994,11,29,4
+3484,P. Martinez,CB,72,France,32,1989-02-21,French Ligue 2,182,77,1989,2,21,1
+3498,A. Lusamba,"CM, LW, RW",72,France,24,1997-01-04,French Ligue 2,179,74,1997,1,4,1
+3504,J. Butez,GK,72,France,26,1995-06-08,Belgian Jupiler Pro League,188,70,1995,6,8,2
+3530,J. Laporte,CB,72,France,27,1993-11-04,French Ligue 1,185,82,1993,11,4,4
+3535,D. Bertaud,GK,72,France,23,1998-06-06,French Ligue 1,180,85,1998,6,6,2
+3544,J. Berthomier,CAM,72,France,31,1990-01-06,French Ligue 1,177,74,1990,1,6,1
+3554,A. Desmas,GK,72,France,27,1994-04-07,French Ligue 1,196,87,1994,4,7,2
+3560,E. Kwateng,RB,72,France,24,1997-04-09,French Ligue 1,181,84,1997,4,9,2
+3612,I. Sissoko,"CM, CDM",72,France,23,1997-10-27,French Ligue 1,193,90,1997,10,27,4
+3619,S. Banza,ST,72,France,24,1996-08-13,Portuguese Liga ZON SAGRES,189,77,1996,8,13,3
+3624,Y. NiakatÃ©,ST,72,France,28,1992-12-16,Saudi Abdul L. Jameel League,178,79,1992,12,16,4
+3662,J. Lefort,"LB, CB",72,France,27,1993-08-09,Swiss Super League,184,81,1993,8,9,3
+3668,M. D'Arpino,"CDM, CM",72,France,25,1996-06-17,Belgian Jupiler Pro League,176,68,1996,6,17,2
+3673,Y. Salmier,CB,72,France,28,1992-11-21,French Ligue 1,188,85,1992,11,21,4
+3676,P. Burner,RB,72,France,25,1996-04-11,French Ligue 2,170,61,1996,4,11,2
+3683,L. Fomba,"CDM, CM",72,France,23,1998-01-26,French Ligue 2,188,68,1998,1,26,1
+3696,E. Owusu,"CDM, CM",72,France,23,1997-11-07,Belgian Jupiler Pro League,182,72,1997,11,7,4
+3704,N. Cozza,"CB, LB",72,France,22,1999-01-08,French Ligue 1,178,72,1999,1,8,1
+3709,A. Gravillon,CB,72,France,23,1998-02-08,French Ligue 1,185,80,1998,2,8,1
+3734,M. Sagnan,CB,72,France,22,1999-04-14,Portuguese Liga ZON SAGRES,187,77,1999,4,14,2
+3772,A. Bamba,"RM, LM",72,France,27,1994-05-25,French Ligue 2,177,74,1994,5,25,2
+3777,J. Dina Ebimbe,"CM, RW",72,France,20,2000-11-21,French Ligue 1,175,66,2000,11,21,4
+3802,M. Bard,LB,72,France,20,2000-11-06,French Ligue 1,173,65,2000,11,6,4
+3828,N. Penneteau,GK,71,France,40,1981-02-28,French Ligue 1,185,78,1981,2,28,1
+3857,J. Moulin,GK,71,France,35,1986-01-13,French Ligue 1,185,88,1986,1,13,1
+3887,J. Faussurier,RB,71,France,34,1987-01-14,French Ligue 1,173,70,1987,1,14,1
+3916,Y. Salibur,"RM, ST",71,France,30,1991-01-24,Turkish SÃ¼per Lig,177,76,1991,1,24,1
+3936,M. BarthelmÃ©,"LM, RM",71,France,32,1988-09-08,French Ligue 2,176,73,1988,9,8,3
+3949,B. Maubleu,GK,71,France,31,1989-12-01,French Ligue 2,192,83,1989,12,1,4
+3966,D. Appiah,"RB, LB",71,France,29,1992-06-09,French Ligue 1,179,68,1992,6,9,2
+3991,F. Ogier,CB,71,France,32,1989-03-21,French Ligue 1,183,73,1989,3,21,1
+3992,L. Carole,"LB, LWB",71,France,30,1991-04-12,Turkish SÃ¼per Lig,182,78,1991,4,12,2
+4001,N. Benezet,"LM, CAM",71,France,30,1991-02-24,USA Major League Soccer,170,65,1991,2,24,1
+4013,T. Monconduit,"CDM, CM",71,France,30,1991-02-10,French Ligue 1,184,83,1991,2,10,1
+4023,A. Knockaert,"RM, RW",71,France,29,1991-11-20,English League Championship,172,69,1991,11,20,4
+4061,D. Bain,CB,71,France,27,1993-07-02,French Ligue 1,181,74,1993,7,2,3
+4068,Q. Bernard,"LB, CB",71,France,31,1989-07-07,French Ligue 2,184,83,1989,7,7,3
+4107,J. Cabot,"RM, LM",71,France,27,1994-04-18,French Ligue 1,164,64,1994,4,18,2
+4111,R. Walter,"CM, CDM",71,France,26,1995-04-26,USA Major League Soccer,174,73,1995,4,26,2
+4154,O. Ntcham,"CM, CAM",71,France,25,1996-02-09,English League Championship,180,80,1996,2,9,1
+4207,J. Hergault,"RB, RWB, LWB",71,France,35,1986-04-05,French Ligue 1,185,80,1986,4,5,2
+4226,Y. Barbet,CB,71,France,28,1993-05-10,English League Championship,187,81,1993,5,10,2
+4240,T. Valls,"CM, CDM",71,France,25,1995-12-18,Swiss Super League,178,71,1995,12,18,4
+4243,A. Bobichon,"LM, CM",71,France,25,1995-09-14,French Ligue 1,178,75,1995,9,14,3
+4246,F. Miguel,"CB, LB",71,France,24,1996-09-01,Spanish Segunda DivisiÃ³n,179,70,1996,9,1,3
+4266,K. N'Doram,"CDM, CM",71,France,25,1996-01-22,French Ligue 1,185,77,1996,1,22,1
+4280,J. Duverne,CB,71,France,23,1997-07-12,French Ligue 1,184,71,1997,7,12,3
+4319,J. GÃ©lin,CB,71,France,24,1997-04-24,French Ligue 1,183,79,1997,4,24,2
+4356,S. Grandsir,"LM, RM",71,France,24,1996-08-14,USA Major League Soccer,170,65,1996,8,14,3
+4371,M. Maolida,"LM, ST",71,France,22,1999-02-14,German 1. Bundesliga,182,78,1999,2,14,1
+4376,A. Bernede,"CDM, CM",71,France,22,1999-05-26,Austrian Football Bundesliga,177,74,1999,5,26,2
+4395,Y. Valery,"RB, RWB",71,France,22,1999-02-22,English Premier League,180,85,1999,2,22,1
+4398,P. Hamel,ST,71,France,27,1994-02-03,French Ligue 1,189,76,1994,2,3,1
+4401,Z. Youssouf,"CM, RM, CDM",71,France,21,1999-07-11,French Ligue 1,182,81,1999,7,11,3
+4404,G. Weissbeck,"CAM, RM",71,France,24,1997-01-17,French Ligue 2,177,70,1997,1,17,1
+4438,R. Aabid,"CDM, CM, CAM",71,France,29,1992-01-19,Turkish SÃ¼per Lig,178,71,1992,1,19,1
+4477,H. Marcelin,CB,71,France,21,2000-02-12,French Ligue 1,197,82,2000,2,12,1
+4522,E. Le FÃ©e,"CM, CAM, RM",71,France,21,2000-02-03,French Ligue 1,170,58,2000,2,3,1
+4532,S. Boey,"RB, LB",71,France,20,2000-09-13,Turkish SÃ¼per Lig,178,70,2000,9,13,3
+4536,M. Diaby,CDM,71,France,24,1996-09-03,Portuguese Liga ZON SAGRES,197,77,1996,9,3,3
+4557,T. Nianzou,"CB, CDM",71,France,19,2002-06-07,German 1. Bundesliga,187,83,2002,6,7,2
+4558,N. Mbuku,"RM, CAM, RW",71,France,19,2002-03-16,French Ligue 1,170,65,2002,3,16,1
+4570,A. Adli,ST,71,France,21,2000-05-10,German 1. Bundesliga,174,60,2000,5,10,2
+4602,V. Demarconnay,GK,70,France,38,1983-04-05,French Ligue 2,180,71,1983,4,5,2
+4606,G. Hoarau,ST,70,France,37,1984-03-05,Swiss Super League,193,85,1984,3,5,1
+4716,F. Hanin,LB,70,France,31,1990-02-04,French Ligue 2,177,73,1990,2,4,1
+4721,B. Leroy,GK,70,France,32,1989-04-07,French Ligue 2,184,74,1989,4,7,2
+4736,R. Amalfitano,"CAM, CM, CDM",70,France,31,1989-08-27,Saudi Abdul L. Jameel League,173,68,1989,8,27,3
+4737,V. Pajot,"CM, CDM",70,France,30,1990-08-19,French Ligue 1,180,70,1990,8,19,3
+4738,N. Isimat-Mirin,CB,70,France,29,1991-11-15,USA Major League Soccer,187,78,1991,11,15,4
+4745,J. Cuffaut,"CB, RB, RWB",70,France,33,1988-03-15,French Ligue 2,180,74,1988,3,15,1
+4790,M. Barreto,"RM, CAM, LM",70,France,30,1991-01-18,French Ligue 2,175,68,1991,1,18,1
+4824,J. Giraudon,CB,70,France,29,1992-01-16,French Ligue 1,184,66,1992,1,16,1
+4848,C. Jean,"ST, RM",70,France,25,1995-07-15,French Ligue 1,170,70,1995,7,15,3
+4865,R. Philippoteaux,LM,70,France,33,1988-03-02,French Ligue 2,170,67,1988,3,2,1
+4870,S. Willems,"CB, LB",70,France,30,1990-08-31,Belgian Jupiler Pro League,184,75,1990,8,31,3
+4878,H. Ongenda,"CAM, CM, LW",70,France,26,1995-06-24,Romanian Liga I,171,72,1995,6,24,2
+4911,A. Monfray,CB,70,France,30,1990-12-20,French Ligue 2,185,76,1990,12,20,4
+4946,O. Kemen,"CM, LM, CAM",70,France,24,1996-07-20,Turkish SÃ¼per Lig,177,76,1996,7,20,3
+4949,M. Diaw,GK,70,France,28,1993-06-22,Swiss Super League,198,98,1993,6,22,2
+4955,L. Mousset,ST,70,France,25,1996-02-08,English League Championship,184,80,1996,2,8,1
+4966,G. Kyei,ST,70,France,25,1995-08-12,Swiss Super League,188,90,1995,8,12,3
+4995,J. Benet,"CM, CAM",70,France,26,1995-06-24,French Ligue 2,186,75,1995,6,24,2
+4996,Y. Bodiger,"CDM, CM, CAM",70,France,26,1995-02-09,Spanish Segunda DivisiÃ³n,188,80,1995,2,9,1
+4999,J. DompÃ©,"LM, LW",70,France,25,1995-08-12,Belgian Jupiler Pro League,170,65,1995,8,12,3
+5005,T. Mauricio,"CAM, RM, LM",70,France,27,1994-03-22,French Ligue 2,169,67,1994,3,22,1
+5006,V. Koziello,CM,70,France,25,1995-10-28,Belgian Jupiler Pro League,168,58,1995,10,28,4
+5051,M. Udol,"LB, LWB, CB",70,France,25,1996-03-20,French Ligue 1,178,68,1996,3,20,1
+5054,Y. Rahmani,"LM, ST",70,France,26,1995-05-13,Spanish Segunda DivisiÃ³n,178,72,1995,5,13,2
+5096,J. Makengo,CM,70,France,23,1998-06-12,Italian Serie A,177,75,1998,6,12,2
+5106,Q. Boisgard,"CM, LM, RM",70,France,24,1997-03-17,French Ligue 1,174,75,1997,3,17,1
+5138,A. LaÃ¯douni,"CDM, CM",70,France,24,1996-12-13,Hungarian Nemzeti BajnoksÃ¡g I,184,81,1996,12,13,4
+5163,M. Chouiar,"LM, CAM",70,France,22,1999-01-23,Turkish SÃ¼per Lig,177,75,1999,1,23,1
+5213,D. Keita-Ruel,ST,70,France,31,1989-09-21,German 2. Bundesliga,185,79,1989,9,21,3
+5224,G. Nyamsi,CB,70,France,24,1997-01-22,French Ligue 1,195,94,1997,1,22,1
+5242,L. Zidane,GK,70,France,23,1998-05-13,Spain Primera Division,183,78,1998,5,13,2
+5249,J. Deminguet,"CM, CDM",70,France,23,1998-01-07,French Ligue 2,178,74,1998,1,7,1
+5262,S. Nsoki,"CB, LB",70,France,22,1999-04-09,Belgian Jupiler Pro League,184,83,1999,4,9,2
+5270,O. Solet,CB,70,France,21,2000-02-07,Austrian Football Bundesliga,192,81,2000,2,7,1
+5366,A. Pelmard,"CB, RB",70,France,21,2000-03-12,Swiss Super League,180,68,2000,3,12,1
+5378,U. Bonnet,"ST, LW",70,France,27,1993-09-17,French Ligue 2,181,73,1993,9,17,3
+5385,T. Coulibaly,"RM, LM, CF",70,France,20,2001-02-18,German 1. Bundesliga,175,72,2001,2,18,1
+5399,J. Chotard,"CM, CDM",70,France,19,2001-09-24,French Ligue 1,179,70,2001,9,24,3
+5433,Y. Hamache,LB,70,France,21,1999-07-13,Portuguese Liga ZON SAGRES,177,73,1999,7,13,3
+5434,L. Gourna,CDM,70,France,17,2003-08-05,French Ligue 1,185,78,2003,8,5,3
+5456,E. Wahi,"ST, LM",70,France,18,2003-01-02,French Ligue 1,184,74,2003,1,2,1
+5490,A. Bonnet,"LM, CAM, ST",69,France,34,1986-10-17,French Ligue 2,173,65,1986,10,17,4
+5518,L. Nestor,CB,69,France,32,1989-05-20,French Ligue 2,179,70,1989,5,20,2
+5519,M. Dreyer,GK,69,France,32,1989-03-20,French Ligue 1,188,81,1989,3,20,1
+5542,R. Rodelin,"LW, CAM",69,France,31,1989-11-18,Swiss Super League,193,93,1989,11,18,4
+5543,V. Sasso,CB,69,France,30,1991-02-16,Swiss Super League,190,85,1991,2,16,1
+5547,G. Belaud,RB,69,France,34,1986-09-16,French Ligue 2,178,75,1986,9,16,3
+5588,M. PeybernÃ¨s,CB,69,France,30,1990-10-21,Spanish Segunda DivisiÃ³n,184,80,1990,10,21,4
+5619,A. Letellier,GK,69,France,30,1990-12-11,French Ligue 1,193,93,1990,12,11,4
+5663,G. Courtet,ST,69,France,32,1989-02-22,French Ligue 2,180,76,1989,2,22,1
+5677,B. Omrani,"ST, LW",69,France,27,1993-07-02,Romanian Liga I,187,92,1993,7,2,3
+5699,R. Camacho,CB,69,France,30,1991-03-05,USA Major League Soccer,185,79,1991,3,5,1
+5714,J. Iloki,"RM, RW",69,France,29,1992-01-14,Chinese Super League,173,70,1992,1,14,1
+5717,M. Michel,GK,69,France,29,1991-09-04,French Ligue 2,189,84,1991,9,4,3
+5725,S. Doukara,"CAM, ST",69,France,29,1991-09-29,Turkish SÃ¼per Lig,183,87,1991,9,29,3
+5741,M. Caillard,GK,69,France,27,1994-05-12,French Ligue 1,191,87,1994,5,12,2
+5752,W. SaÃ¯d,"ST, RW, LW",69,France,26,1995-04-19,French Ligue 1,173,71,1995,4,19,2
+5753,E. Basilio,GK,69,France,26,1994-10-03,French Ligue 2,187,75,1994,10,3,4
+5757,D. Douline,"CDM, CM",69,France,28,1993-05-28,Swiss Super League,182,83,1993,5,28,2
+5759,J. MariÃ©,"CM, CDM",69,France,29,1991-09-29,French Ligue 2,177,73,1991,9,29,3
+5806,L. Dos Santos,"RWB, RB, LWB",69,France,28,1993-03-21,French Ligue 2,177,70,1993,3,21,1
+5863,G. Lloris,CB,69,France,25,1995-07-18,French Ligue 2,191,87,1995,7,18,3
+5876,K. Vandendriessche,"CM, CDM",69,France,31,1989-08-07,Belgian Jupiler Pro League,183,74,1989,8,7,3
+5998,M. PrÃ©vot,GK,69,France,24,1997-04-09,French Ligue 2,187,81,1997,4,9,2
+6034,V. Henry,"RWB, RB",69,France,27,1993-09-18,French Ligue 2,178,73,1993,9,18,3
+6061,A. Diakhaby,"RM, RW",69,France,24,1996-07-05,French Ligue 2,184,74,1996,7,5,3
+6075,A. Sissako,"CDM, CM",69,France,23,1998-05-26,Belgian Jupiler Pro League,186,78,1998,5,26,2
+6133,U. Bozok,ST,69,France,24,1996-09-19,Turkish SÃ¼per Lig,178,75,1996,9,19,3
+6149,D. Batubinsika,CB,69,France,25,1996-02-15,Portuguese Liga ZON SAGRES,185,84,1996,2,15,1
+6151,C. Mandouki,"CDM, CM",69,France,29,1991-08-21,French Ligue 2,179,76,1991,8,21,3
+6209,L. Perrin,CB,69,France,22,1998-11-19,French Ligue 1,187,71,1998,11,19,4
+6284,J. Mellot,RB,69,France,27,1994-03-28,Spanish Segunda DivisiÃ³n,178,77,1994,3,28,1
+6287,K. KonÃ©,CM,69,France,20,2001-05-17,German 1. Bundesliga,185,80,2001,5,17,2
+6291,E. Lombardo,LM,69,France,24,1997-04-16,Spanish Segunda DivisiÃ³n,174,69,1997,4,16,2
+6298,L. Brassier,CB,69,France,21,1999-11-02,French Ligue 1,184,78,1999,11,2,4
+6311,P. Cornud,"LB, LM",69,France,24,1996-12-12,Spanish Segunda DivisiÃ³n,177,73,1996,12,12,4
+6320,Y. Gboho,"LM, RM, ST",69,France,20,2001-01-14,Holland Eredivisie,178,64,2001,1,14,1
+6341,M. Chahiri,"LM, CAM",69,France,24,1996-07-25,French Ligue 2,180,77,1996,7,25,3
+6344,P. Kalulu,"RB, CB",69,France,21,2000-06-05,Italian Serie A,184,69,2000,6,5,2
+6366,C. Matsima,CB,69,France,19,2002-05-15,French Ligue 1,193,80,2002,5,15,2
+6426,R. Riou,GK,68,France,33,1987-08-06,French Ligue 2,189,81,1987,8,6,3
+6450,M. Coutadeur,"CDM, CM",68,France,35,1986-03-20,French Ligue 2,170,69,1986,3,20,1
+6459,C. Avinel,CB,68,France,34,1986-09-11,French Ligue 2,187,84,1986,9,11,3
+6461,D. Marcq,"CDM, CM",68,France,32,1988-12-08,Belgian Jupiler Pro League,181,76,1988,12,8,4
+6462,R. Armand,"ST, LM, RM",68,France,34,1987-02-27,French Ligue 2,181,75,1987,2,27,1
+6492,A. Coeff,"CB, RB, CDM",68,France,29,1992-02-20,French Ligue 2,186,74,1992,2,20,1
+6494,B. Poulain,CB,68,France,33,1987-07-24,Belgian Jupiler Pro League,189,83,1987,7,24,3
+6525,R. Nouri,"LM, RM",68,France,36,1985-06-07,French Ligue 2,178,73,1985,6,7,2
+6534,J. Delle,GK,68,France,31,1990-03-29,Belgian Jupiler Pro League,190,85,1990,3,29,1
+6563,M. Gorgelin,GK,68,France,30,1990-08-05,French Ligue 2,187,83,1990,8,5,3
+6580,G. Bussmann,LB,68,France,30,1991-02-02,German 2. Bundesliga,184,75,1991,2,2,1
+6632,D. LÃ©on,GK,68,France,28,1992-11-03,French Ligue 2,187,94,1992,11,3,4
+6661,F. Brillant,CB,68,France,36,1985-06-26,USA Major League Soccer,191,70,1985,6,26,2
+6692,T. Peyre,CB,68,France,28,1992-10-03,Belgian Jupiler Pro League,184,75,1992,10,3,4
+6759,A. Maraval,GK,68,France,27,1993-10-20,French Ligue 2,184,79,1993,10,20,4
+6779,G. Kilota,"LB, LM",68,France,27,1994-01-02,Belgian Jupiler Pro League,171,66,1994,1,2,1
+6814,G. Paquiez,RB,68,France,27,1994-02-15,French Ligue 2,182,72,1994,2,15,1
+6825,L. Houri,"CAM, CM",68,France,25,1996-01-19,Romanian Liga I,166,59,1996,1,19,1
+6826,T. Ambrose,"LM, LW, ST",68,France,24,1997-03-28,Belgian Jupiler Pro League,178,76,1997,3,28,1
+6856,L. Mpasi,GK,68,France,26,1994-08-01,French Ligue 2,182,78,1994,8,1,3
+6866,P. Bourdin,"LB, CB, LWB",68,France,27,1994-01-06,Belgian Jupiler Pro League,186,84,1994,1,6,1
+6896,V. Jacob,"LM, CAM",68,France,27,1994-06-15,French Ligue 2,171,67,1994,6,15,2
+6943,M. Alphonse,"RB, LB",68,France,31,1989-07-12,French Ligue 2,182,75,1989,7,12,3
+7035,G. Hein,"RM, CM, CAM",68,France,24,1996-08-07,French Ligue 2,170,65,1996,8,7,3
+7037,R. Descamps,GK,68,France,25,1996-06-25,French Ligue 1,196,82,1996,6,25,2
+7045,H. Mendes,"RB, CB",68,France,23,1998-05-04,French Ligue 1,184,73,1998,5,4,2
+7095,A. Leautey,"LM, LW, RM",68,France,25,1996-04-14,Portuguese Liga ZON SAGRES,172,66,1996,4,14,2
+7100,H. Keyta,"LW, ST, LM",68,France,26,1994-12-17,Portuguese Liga ZON SAGRES,184,77,1994,12,17,4
+7146,Y. Fekir,"LW, RW, CAM",68,France,24,1997-05-05,Spain Primera Division,170,65,1997,5,5,2
+7173,B. Aouacheria,"RM, LM",68,France,27,1994-04-02,Portuguese Liga ZON SAGRES,182,77,1994,4,2,2
+7198,G. Robail,"LM, LW, ST",68,France,27,1994-01-09,French Ligue 2,182,73,1994,1,9,1
+7233,Ã. Vandenabeele,CB,68,France,29,1991-12-16,French Ligue 2,184,77,1991,12,16,4
+7237,G. Laura,"ST, RM",68,France,25,1995-08-06,French Ligue 2,178,82,1995,8,6,3
+7242,T. Cognat,"CM, CDM, LM",68,France,23,1998-01-25,Swiss Super League,173,67,1998,1,25,1
+7245,H. Magnetti,"CDM, CM",68,France,23,1998-05-30,French Ligue 1,180,75,1998,5,30,2
+7252,Y. Magnin,CDM,68,France,24,1997-06-21,French Ligue 1,183,71,1997,6,21,2
+7272,B. DiakitÃ©,"CB, RB",68,France,20,2001-01-06,French Ligue 2,186,82,2001,1,6,1
+7273,H. Massengo,"CDM, CM",68,France,19,2001-07-07,English League Championship,175,70,2001,7,7,3
+7274,G. Biancone,"RB, RWB",68,France,21,2000-03-31,French Ligue 1,187,79,2000,3,31,1
+7308,P. Bardy,CB,68,France,28,1992-08-27,French Ligue 2,182,71,1992,8,27,3
+7311,R. Boissier,"CM, CDM, RM",68,France,27,1994-02-22,French Ligue 2,181,73,1994,2,22,1
+7337,I. Lihadji,RM,68,France,19,2002-04-10,French Ligue 1,177,70,2002,4,10,2
+7376,G. Mikautadze,"ST, CF",68,France,20,2000-10-31,Belgian Jupiler Pro League,178,72,2000,10,31,4
+7396,J. Antiste,ST,68,France,18,2002-08-18,Italian Serie A,182,77,2002,8,18,3
+7408,V. Lobry,"CAM, CDM, ST",68,France,26,1995-06-16,French Ligue 2,181,74,1995,6,16,2
+7413,T. PembÃ©lÃ©,"RB, CB, RWB",68,France,18,2002-09-09,French Ligue 1,182,76,2002,9,9,3
+7422,B. Soppy,"RB, CB",68,France,19,2002-02-21,Italian Serie A,181,80,2002,2,21,1
+7431,C. DiakitÃ©,"CM, CAM",68,France,18,2002-12-05,French Ligue 2,173,63,2002,12,5,4
+7512,P. Gibaud,CB,67,France,33,1988-04-22,French Ligue 2,184,69,1988,4,22,2
+7513,A. Robic,"RM, LM, ST",67,France,35,1986-03-05,French Ligue 2,181,73,1986,3,5,1
+7548,J. Fontaine,"CM, RM",67,France,32,1989-03-11,French Ligue 2,177,73,1989,3,11,1
+7560,E. RiviÃ¨re,ST,67,France,31,1990-03-03,Italian Serie B,182,76,1990,3,3,1
+7598,A. GonÃ§alves,"CM, RM",67,France,35,1986-03-06,French Ligue 2,178,79,1986,3,6,1
+7599,B. Jeannot,"ST, RW",67,France,29,1992-01-22,French Ligue 2,183,78,1992,1,22,1
+7831,J. Pi,"CM, CDM",67,France,27,1993-09-24,French Ligue 2,180,74,1993,9,24,3
+7850,M. Perez,"CDM, CM",67,France,30,1991-05-11,French Ligue 2,182,78,1991,5,11,2
+7920,A. Batisse,"CB, CDM",67,France,26,1995-01-13,French Ligue 2,186,87,1995,1,13,1
+7943,D. Louiserre,"CDM, CM",67,France,26,1995-02-02,French Ligue 2,172,63,1995,2,2,1
+7949,J. Augustin,ST,67,France,24,1997-06-16,French Ligue 1,177,69,1997,6,16,2
+7960,B. Boutobba,"RM, CAM",67,France,22,1998-08-29,French Ligue 2,173,65,1998,8,29,3
+7966,R. Maulun,"CM, CAM",67,France,24,1996-11-23,Holland Eredivisie,176,67,1996,11,23,4
+7994,K. Boto,"LB, LWB",67,France,25,1996-03-07,French Ligue 2,183,71,1996,3,7,1
+7995,V. Marchetti,"CM, CDM, LB",67,France,23,1997-07-04,French Ligue 2,181,70,1997,7,4,3
+7996,Z. Machach,"CAM, CM, ST",67,France,25,1996-01-05,Italian Serie A,185,77,1996,1,5,1
+7997,B. Allain,GK,67,France,29,1991-11-28,Swedish Allsvenskan,185,77,1991,11,28,4
+8013,F. Bambock,"CDM, CM",67,France,26,1995-04-07,French Ligue 2,181,76,1995,4,7,2
+8050,A. Olliero,GK,67,France,25,1996-02-15,French Ligue 2,193,85,1996,2,15,1
+8063,J. Livolant,RM,67,France,23,1998-01-09,French Ligue 2,175,70,1998,1,9,1
+8071,G. Perrin,"LM, RM",67,France,25,1996-06-07,French Ligue 2,169,63,1996,6,7,2
+8104,S. Camara,CB,67,France,28,1992-11-14,Turkish SÃ¼per Lig,190,84,1992,11,14,4
+8117,A. Gory,"ST, LM",67,France,24,1996-08-30,French Ligue 2,182,72,1996,8,30,3
+8132,G. Fofana,"CDM, CM",67,France,28,1992-12-17,Romanian Liga I,184,78,1992,12,17,4
+8164,J. Gaspar,RB,67,France,24,1997-04-23,French Ligue 2,172,58,1997,4,23,2
+8191,B. Lasme,"ST, RM",67,France,22,1998-11-14,German 1. Bundesliga,188,85,1998,11,14,4
+8206,J. Masson,"CDM, CM",67,France,23,1998-06-18,French Ligue 2,182,76,1998,6,18,2
+8211,J. Pendant,LB,67,France,24,1997-02-09,USA Major League Soccer,177,64,1997,2,9,1
+8262,G. Poussin,GK,67,France,22,1999-01-13,French Ligue 1,184,85,1999,1,13,1
+8275,W. Geubbels,ST,67,France,19,2001-08-16,French Ligue 1,185,72,2001,8,16,3
+8276,S. Sadzoute,LB,67,France,23,1998-04-29,Belgian Jupiler Pro League,172,56,1998,4,29,2
+8278,A. Sissoko,RB,67,France,24,1997-03-07,French Ligue 1,178,68,1997,3,7,1
+8283,C. Rocchia,LB,67,France,23,1998-02-01,French Ligue 2,172,70,1998,2,1,1
+8292,J. Billong,CB,67,France,27,1993-12-28,French Ligue 1,192,88,1993,12,28,4
+8307,A. Trouillet,CM,67,France,20,2000-12-23,French Ligue 2,175,65,2000,12,23,4
+8324,E. Loiodice,"CM, CDM",67,France,20,2000-11-27,Spanish Segunda DivisiÃ³n,175,71,2000,11,27,4
+8329,C. Abi,ST,67,France,21,2000-04-12,French Ligue 2,187,71,2000,4,12,2
+8330,W. TchimbembÃ©,"CM, LM",67,France,23,1998-04-21,French Ligue 1,180,74,1998,4,21,2
+8343,I. Sissoko,ST,67,France,25,1995-11-27,French Ligue 2,190,89,1995,11,27,4
+8392,K. SidibÃ©,"CDM, CM, CB",67,France,22,1999-01-28,French Ligue 2,200,85,1999,1,28,1
+8395,K. Cabral,"LM, ST, LW",67,France,21,1999-07-10,USA Major League Soccer,183,75,1999,7,10,3
+8415,A. Scheidler,ST,67,France,23,1998-06-04,French Ligue 2,192,90,1998,6,4,2
+8449,B. SoumarÃ©,"CAM, RM",67,France,22,1999-02-11,French Ligue 2,180,70,1999,2,11,1
+8455,Y. Ben Balla,"CDM, CM",67,France,25,1996-02-24,German 2. Bundesliga,181,72,1996,2,24,1
+8477,E. Millot,"CAM, CM",67,France,18,2002-07-17,German 1. Bundesliga,175,64,2002,7,17,3
+8523,N. Diliberto,"CM, CDM",67,France,19,2001-09-08,French Ligue 2,175,65,2001,9,8,3
+8526,L. Da Cunha,"RM, CAM",67,France,20,2001-06-09,French Ligue 1,176,69,2001,6,9,2
+8565,M. Biron,"ST, RM",67,France,23,1997-08-26,French Ligue 2,170,71,1997,8,26,3
+8572,J. Le Douaron,"LM, RM",67,France,23,1998-04-21,French Ligue 1,189,77,1998,4,21,2
+8573,I. Kebbal,"RM, CAM",67,France,22,1998-07-10,French Ligue 1,169,60,1998,7,10,3
+8579,A. Moueffek,"CM, RB",67,France,20,2001-04-09,French Ligue 1,179,71,2001,4,9,2
+8581,S. Mara,ST,67,France,18,2002-07-30,French Ligue 1,183,80,2002,7,30,3
+8589,E. Guessand,ST,67,France,20,2001-07-01,French Ligue 1,185,79,2001,7,1,3
+8620,T. Lacoux,"CDM, CM",67,France,19,2002-01-25,French Ligue 1,175,65,2002,1,25,1
+8644,L. Rosier,"CDM, CM",67,France,22,1998-08-14,Portuguese Liga ZON SAGRES,190,82,1998,8,14,3
+8663,R. Providence,"LW, RW, ST",67,France,19,2001-07-07,Belgian Jupiler Pro League,172,59,2001,7,7,3
+8704,J. Sainati,CB,66,France,32,1988-09-25,French Ligue 2,183,83,1988,9,25,3
+8722,A. Collin,CB,66,France,35,1986-03-08,USA Major League Soccer,187,86,1986,3,8,1
+8739,F. Sammaritano,"LM, CAM, RM",66,France,35,1986-03-23,French Ligue 2,162,64,1986,3,23,1
+8784,F. Berenguer,"CM, CAM, LW",66,France,32,1989-04-01,Australian Hyundai A-League,180,70,1989,4,1,2
+8791,M. Vidal,GK,66,France,30,1991-06-03,French Ligue 2,183,83,1991,6,3,2
+8812,B. Ketkeophomphone,"ST, LM",66,France,31,1990-03-24,French Ligue 2,180,73,1990,3,24,1
+8829,L. NÃ©ry,"RB, LB",66,France,30,1991-02-05,French Ligue 2,174,73,1991,2,5,1
+8837,T. Moulin,"CDM, CM, CAM",66,France,31,1990-01-13,Romanian Liga I,174,75,1990,1,13,1
+8892,E. Dudouit,"CDM, CM, RB",66,France,29,1991-09-07,French Ligue 2,183,70,1991,9,7,3
+9023,D. Dussaut,"RB, LB",66,France,26,1994-11-08,Romanian Liga I,184,73,1994,11,8,4
+9024,D. CavarÃ©,RB,66,France,26,1995-02-05,Swiss Super League,185,93,1995,2,5,1
+9039,T. Pellenard,"LB, LWB",66,France,27,1994-03-04,French Ligue 2,182,78,1994,3,4,1
+9060,F. David,"ST, LW, RM",66,France,28,1992-11-16,French Ligue 2,180,67,1992,11,16,4
+9078,P. Lemonnier,CB,66,France,27,1993-07-06,French Ligue 2,182,76,1993,7,6,3
+9110,Q. Cornette,"RM, LM",66,France,27,1994-01-17,French Ligue 2,172,75,1994,1,17,1
+9117,Q. Lecoeuche,"LB, LM",66,France,27,1994-02-04,French Ligue 2,172,65,1994,2,4,1
+9144,N. LemaÃ®tre,GK,66,France,24,1997-01-12,French Ligue 2,185,83,1997,1,12,1
+9176,A. Kalulu,"RM, LM, ST",66,France,25,1996-01-21,French Ligue 2,166,68,1996,1,21,1
+9190,D. Poha,CM,66,France,24,1997-05-28,Portuguese Liga ZON SAGRES,173,68,1997,5,28,2
+9198,N. Janvier,CM,66,France,22,1998-08-11,Portuguese Liga ZON SAGRES,172,77,1998,8,11,3
+9205,S. Coulibaly,CB,66,France,25,1996-06-09,USA Major League Soccer,184,87,1996,6,9,2
+9211,J. Dacosta,"RWB, RB",66,France,25,1996-05-29,English League Championship,182,77,1996,5,29,2
+9295,I. Sacko,"ST, LM",66,France,23,1997-07-19,French Ligue 1,183,70,1997,7,19,3
+9296,T. Campanini,RB,66,France,22,1998-07-27,French Ligue 2,179,79,1998,7,27,3
+9301,R. Guitane,"CAM, CM",66,France,22,1999-05-26,Portuguese Liga ZON SAGRES,170,58,1999,5,26,2
+9319,A. Jung,ST,66,France,23,1997-10-08,French Ligue 2,190,85,1997,10,8,4
+9327,Y. Maziz,"CAM, CM, LM",66,France,23,1998-06-24,Belgian Jupiler Pro League,175,68,1998,6,24,2
+9341,M. Sylla,"ST, RW",66,France,21,1999-11-25,Holland Eredivisie,181,70,1999,11,25,4
+9365,M. NadÃ©,CB,66,France,22,1999-03-04,French Ligue 1,188,80,1999,3,4,1
+9391,W. Kanga,ST,66,France,23,1998-02-21,Swiss Super League,189,90,1998,2,21,1
+9404,S. Karamoko,RB,66,France,28,1992-07-29,French Ligue 2,170,65,1992,7,29,3
+9406,R. Kerrouche,"CM, CDM",66,France,27,1994-04-26,French Ligue 2,184,73,1994,4,26,2
+9407,M. TchokountÃ©,ST,66,France,32,1988-09-11,French Ligue 2,188,90,1988,9,11,3
+9415,S. NiakatÃ©,"CB, LB",66,France,21,1999-07-10,French Ligue 1,186,76,1999,7,10,3
+9430,Y. Clementia,GK,66,France,23,1997-07-05,French Ligue 2,188,80,1997,7,5,3
+9435,K. Guessoum,CB,66,France,22,1999-02-05,French Ligue 2,176,70,1999,2,5,1
+9436,Y. Armougom,"LB, LWB, LM",66,France,23,1998-06-05,French Ligue 2,173,71,1998,6,5,2
+9454,S. Cibois,GK,66,France,23,1998-03-02,French Ligue 1,192,83,1998,3,2,1
+9463,F. Valot,"RM, CAM",66,France,28,1993-02-12,USA Major League Soccer,175,75,1993,2,12,1
+9502,S. Beusnard,"RM, LM, CAM",66,France,29,1992-06-27,French Ligue 2,170,62,1992,6,27,2
+9523,D. Chambost,"CAM, CM, ST",66,France,23,1997-08-19,French Ligue 1,177,70,1997,8,19,3
+9540,G. Haag,"CDM, CM, CB",66,France,21,2000-05-30,French Ligue 2,185,80,2000,5,30,2
+9553,W. Isidor,ST,66,France,20,2000-08-27,French Ligue 1,186,74,2000,8,27,3
+9562,L. Leroy,"CM, CAM, CDM",66,France,21,2000-02-14,French Ligue 1,187,82,2000,2,14,1
+9576,L. Mbe Soh,CB,66,France,20,2001-06-13,English League Championship,187,86,2001,6,13,2
+9578,J. Chougrani,"CB, LWB, LM",66,France,30,1991-03-30,French Ligue 2,185,82,1991,3,30,1
+9600,W. Coulibaly,"RB, RWB",66,France,22,1999-05-26,Italian Serie B,188,84,1999,5,26,2
+9612,K. Koindredi,CM,66,France,19,2001-10-27,Spain Primera Division,184,77,2001,10,27,4
+9624,A. Rouault,CB,66,France,20,2001-05-29,French Ligue 2,187,76,2001,5,29,2
+9686,M. Cho,ST,66,France,17,2004-01-19,French Ligue 1,182,73,2004,1,19,1
+9689,D. Thiam,"RB, RWB",66,France,31,1989-12-02,French Ligue 2,179,67,1989,12,2,4
+9690,I. Boura,"LWB, LB",66,France,20,2000-08-14,French Ligue 1,173,68,2000,8,14,3
+9728,M. Gusto,RB,66,France,18,2003-05-19,French Ligue 1,179,76,2003,5,19,2
+9781,J. Blasco,"RB, CB",66,France,22,1999-02-12,Spanish Segunda DivisiÃ³n,185,79,1999,2,12,1
+9802,P. Ndiaye,"CB, CDM",66,France,23,1998-02-04,Austrian Football Bundesliga,203,71,1998,2,4,1
+9803,M. Abline,ST,66,France,18,2003-03-28,French Ligue 1,176,70,2003,3,28,1
+9931,R. Padovani,"CB, CM, RB",65,France,31,1989-10-15,French Ligue 2,187,74,1989,10,15,4
+9939,J. Rivierez,"CB, RB",65,France,32,1989-05-18,French Ligue 2,182,82,1989,5,18,2
+9983,B. Boulenger,"CB, LB, LM",65,France,31,1990-03-01,Belgian Jupiler Pro League,188,86,1990,3,1,1
+9992,M. Mandron,ST,65,France,26,1994-10-11,English League One,191,82,1994,10,11,4
+10027,B. AloÃ©,CB,65,France,27,1994-06-29,Portuguese Liga ZON SAGRES,184,77,1994,6,29,2
+10048,A. Belmonte,"CDM, CM",65,France,25,1995-10-16,French Ligue 2,185,79,1995,10,16,4
+10071,E. Ba,"CDM, CM",65,France,28,1993-03-05,French Ligue 2,183,75,1993,3,5,1
+10088,L. Rougeaux,"CB, RB",65,France,27,1994-03-10,Belgian Jupiler Pro League,185,85,1994,3,10,1
+10118,K. Azamoum,"CDM, CM",65,France,31,1990-01-17,French Ligue 1,178,76,1990,1,17,1
+10189,J. Correa,"ST, LM",65,France,27,1993-12-25,French Ligue 2,171,68,1993,12,25,4
+10200,E. Salles,GK,65,France,27,1994-03-02,French Ligue 2,187,78,1994,3,2,1
+10219,N. Mbemba,"CM, CDM, RB",65,France,26,1995-02-19,French Ligue 2,182,75,1995,2,19,1
+10224,C. PsychÃ©,CB,65,France,32,1988-07-28,Norwegian Eliteserien,186,82,1988,7,28,3
+10250,I. CissÃ©,CB,65,France,25,1996-05-02,French Ligue 2,185,70,1996,5,2,2
+10311,J. Vachoux,GK,65,France,26,1994-07-07,French Ligue 2,183,76,1994,7,7,3
+10316,J. Leborgne,"CM, RB",65,France,25,1995-09-29,French Ligue 2,173,63,1995,9,29,3
+10333,A. Ndom,"CDM, CM, LM",65,France,25,1996-05-30,French Ligue 2,188,86,1996,5,30,2
+10338,M. Poaty,"LB, LWB",65,France,23,1997-07-15,Belgian Jupiler Pro League,175,75,1997,7,15,3
+10350,Q. Braat,GK,65,France,23,1997-07-06,French Ligue 2,194,90,1997,7,6,3
+10414,A. Ba,CB,65,France,31,1989-11-07,French Ligue 2,188,78,1989,11,7,4
+10422,Y. Demoncy,"CDM, CM",65,France,25,1996-04-07,French Ligue 2,180,68,1996,4,7,2
+10440,Y. Diouf,GK,65,France,21,1999-11-16,French Ligue 1,184,74,1999,11,16,4
+10470,Y. Merdji,ST,65,France,27,1993-10-29,French Ligue 2,175,69,1993,10,29,4
+10479,B. Passi,CB,65,France,23,1997-08-05,French Ligue 2,189,78,1997,8,5,3
+10488,S. Ambri,"LM, ST, LWB",65,France,23,1997-08-12,French Ligue 2,178,64,1997,8,12,3
+10532,D. Gomis,"LM, RM",65,France,28,1992-12-21,French Ligue 2,173,68,1992,12,21,4
+10552,L. Pintor,"RW, LW",65,France,20,2000-08-05,French Ligue 1,179,66,2000,8,5,3
+10554,E. Ebosse,"LB, CB",65,France,22,1999-03-11,French Ligue 1,185,75,1999,3,11,1
+10640,B. Mendy,"CDM, CB",65,France,21,2000-01-12,French Ligue 1,191,82,2000,1,12,1
+10647,Y. Letard,CB,65,France,22,1998-08-18,Austrian Football Bundesliga,188,86,1998,8,18,3
+10649,H. Sy,"LB, LWB",65,France,25,1996-03-30,French Ligue 2,170,75,1996,3,30,1
+10653,D. Guidi,CB,65,France,25,1996-02-06,French Ligue 2,177,75,1996,2,6,1
+10675,C. Gomes,"CDM, CM",65,France,20,2000-07-23,English League Championship,180,70,2000,7,23,3
+10678,N. Alioui,LM,65,France,22,1999-02-18,French Ligue 2,175,64,1999,2,18,1
+10681,G. Rutter,ST,65,France,19,2002-04-20,German 1. Bundesliga,182,83,2002,4,20,2
+10687,S. Bajic,GK,65,France,19,2001-12-23,French Ligue 1,191,84,2001,12,23,4
+10691,N. Djouahra,"LM, RM",65,France,21,1999-11-23,Spanish Segunda DivisiÃ³n,171,67,1999,11,23,4
+10694,M. PhaÃ«ton,"ST, LM",65,France,21,2000-01-08,French Ligue 2,185,75,2000,1,8,1
+10706,L. AgoumÃ©,"CM, CDM",65,France,19,2002-02-09,French Ligue 1,185,72,2002,2,9,1
+10728,I. Gomis,"CM, RM, CAM",65,France,21,1999-11-09,French Ligue 2,175,66,1999,11,9,4
+10758,N. Ouammou,LWB,65,France,28,1993-04-27,French Ligue 2,181,73,1993,4,27,2
+10779,C. Boli,"RM, LM",65,France,22,1998-08-30,French Ligue 1,175,65,1998,8,30,3
+10789,H. Mbock,"CM, CDM",65,France,21,1999-12-28,French Ligue 1,186,82,1999,12,28,4
+10793,H. Vandermersch,"RB, LB, CB",65,France,22,1999-05-05,French Ligue 2,180,72,1999,5,5,2
+10797,F. Michel,"CM, CAM",65,France,29,1992-03-25,French Ligue 2,172,63,1992,3,25,1
+10809,M. Kikonda,"CDM, CM",65,France,25,1996-04-20,French Ligue 2,175,76,1996,4,20,2
+10875,M. Rivera,LM,65,France,19,2002-05-30,French Ligue 1,168,61,2002,5,30,2
+10907,J. Krasso,"ST, RW",65,France,23,1997-07-17,French Ligue 1,187,90,1997,7,17,3
+10911,T. Ndicka Matam,"LWB, LB, LM",65,France,21,2000-04-20,Belgian Jupiler Pro League,170,65,2000,4,20,2
+10917,A. Virginius,"RW, LW",65,France,18,2003-01-03,French Ligue 2,175,65,2003,1,3,1
+10991,C. Wooh,CB,65,France,19,2001-09-18,French Ligue 1,191,90,2001,9,18,3
+11001,Ã. Michut,CM,65,France,18,2003-03-04,French Ligue 1,178,68,2003,3,4,1
+11006,C. Lukeba,CB,65,France,18,2002-12-17,French Ligue 1,184,73,2002,12,17,4
+11007,Y. Nadrani,CB,65,France,24,1997-01-14,Belgian Jupiler Pro League,183,78,1997,1,14,1
+11014,S. Quemper,LB,65,France,28,1993-05-12,French Ligue 2,178,75,1993,5,12,2
+11015,K. Schur,"LM, RB, LW",65,France,30,1990-11-19,French Ligue 2,179,76,1990,11,19,4
+11090,T. Diagouraga,"CDM, CM",64,France,34,1987-06-10,English League One,188,72,1987,6,10,2
+11122,Y. Thuram,GK,64,France,32,1988-10-31,French Ligue 2,187,85,1988,10,31,4
+11177,D. Oberhauser,GK,64,France,30,1990-11-29,French Ligue 1,185,83,1990,11,29,4
+11217,B. Valette,GK,64,France,28,1992-09-01,French Ligue 2,185,80,1992,9,1,3
+11220,B. Diallo,CB,64,France,30,1990-07-20,Romanian Liga I,183,78,1990,7,20,3
+11223,C. Vincent,"CM, CDM, RM",64,France,28,1992-11-08,French Ligue 2,178,74,1992,11,8,4
+11238,W. Jobello,"RW, RM",64,France,27,1994-01-23,English League Championship,183,68,1994,1,23,1
+11247,A. Ndiaye,"RM, LM, CAM",64,France,30,1991-06-14,French Ligue 2,179,67,1991,6,14,2
+11251,T. Vincensini,GK,64,France,27,1993-09-12,French Ligue 2,184,79,1993,9,12,3
+11272,E. Zidane,"CAM, CM, CDM",64,France,26,1995-03-24,French Ligue 2,184,78,1995,3,24,1
+11319,Y. BoÃ©-Kane,"CDM, CM",64,France,30,1991-04-05,French Ligue 2,185,76,1991,4,5,2
+11347,Y. Kaabouni,"CDM, CM",64,France,26,1995-05-23,French Ligue 2,179,66,1995,5,23,2
+11353,G. Lefebvre,"CDM, CM",64,France,27,1994-05-13,French Ligue 2,175,68,1994,5,13,2
+11394,T. Pierrot,"CDM, CM, CB",64,France,27,1994-01-01,Belgian Jupiler Pro League,186,80,1994,1,1,1
+11410,R. Latouchent,"LB, RB",64,France,25,1996-03-21,French Ligue 2,180,72,1996,3,21,1
+11436,C. Depres,ST,64,France,26,1994-11-25,French Ligue 2,188,80,1994,11,25,4
+11465,W. Caddy,ST,64,France,24,1997-04-09,French Ligue 2,183,83,1997,4,9,2
+11520,S. Salles-Lamonge,"CM, CAM",64,France,25,1996-01-28,French Ligue 2,170,67,1996,1,28,1
+11572,J. Ruiz,"CB, CDM",64,France,23,1998-04-06,Swiss Super League,188,82,1998,4,6,2
+11590,T. Muyumba,"CDM, CM",64,France,24,1997-03-07,French Ligue 2,166,60,1997,3,7,1
+11626,J. Delem,"CDM, RB",64,France,28,1993-03-18,USA Major League Soccer,180,71,1993,3,18,1
+11654,H. Mahou,"ST, RM",64,France,21,1999-07-02,Swiss Super League,179,70,1999,7,2,3
+11673,A. Yamga,"RM, RB",64,France,24,1996-09-07,Danish Superliga,188,85,1996,9,7,3
+11679,L. Rajot,"CAM, CDM, CM",64,France,23,1997-10-13,French Ligue 2,179,68,1997,10,13,4
+11680,S. Laiton,GK,64,France,21,2000-01-28,French Ligue 2,190,85,2000,1,28,1
+11691,T. Sainte-Luce,LB,64,France,22,1998-10-20,French Ligue 2,181,72,1998,10,20,4
+11738,L. Vallier,"LB, LM",64,France,22,1999-04-24,French Ligue 2,178,72,1999,4,24,2
+11741,B. Danger,"CM, CDM, RB",64,France,23,1998-01-29,French Ligue 2,182,73,1998,1,29,1
+11756,G. GbellÃ©,"CDM, CM, RB",64,France,28,1992-12-16,French Ligue 2,179,75,1992,12,16,4
+11761,S. RÃ©not,GK,64,France,31,1989-11-11,French Ligue 1,185,80,1989,11,11,4
+11766,A. Taoui,"ST, RW, LW",64,France,19,2001-08-10,French Ligue 2,179,69,2001,8,10,3
+11768,S. Arab,"CAM, LW",64,France,20,2000-07-23,French Ligue 2,178,79,2000,7,23,3
+11773,L. Kouagba,"CB, LB, LWB",64,France,27,1994-06-09,French Ligue 2,183,81,1994,6,9,2
+11775,L. Diabyfadiga,ST,64,France,20,2001-01-19,French Ligue 2,188,82,2001,1,19,1
+11791,G. TraorÃ©,"CDM, CM",64,France,21,1999-12-04,French Ligue 2,173,63,1999,12,4,4
+11803,Y. Kitala,ST,64,France,23,1998-04-09,French Ligue 2,186,83,1998,4,9,2
+11805,H. Hassan,"LW, LM, RM",64,France,19,2002-02-08,Spanish Segunda DivisiÃ³n,178,71,2002,2,8,1
+11810,M. Boudjemaa,"CDM, CM",64,France,23,1998-04-07,Turkish SÃ¼per Lig,182,70,1998,4,7,2
+11812,H. Abdelli,"CF, ST, CAM",64,France,21,1999-11-17,French Ligue 2,188,81,1999,11,17,4
+11813,M. El Idrissy,"ST, RM",64,France,22,1999-02-10,French Ligue 2,181,74,1999,2,10,1
+11825,G. Dietsch,GK,64,France,20,2001-04-17,Belgian Jupiler Pro League,184,73,2001,4,17,2
+11829,E. Sylvestre,"RW, LW",64,France,21,1999-08-29,French Ligue 2,173,69,1999,8,29,3
+11868,B. Benkhedim,"CAM, RM",64,France,20,2001-04-20,French Ligue 1,175,68,2001,4,20,2
+11870,O. Dadoune,ST,64,France,26,1994-07-26,French Ligue 2,190,77,1994,7,26,3
+11871,S. Delos,"LB, RB",64,France,22,1999-06-16,French Ligue 2,183,73,1999,6,16,2
+11874,A. TraorÃ©,RM,64,France,19,2002-03-07,French Ligue 1,177,78,2002,3,7,1
+11875,B. Fadiga,"CM, CAM",64,France,20,2001-01-15,French Ligue 1,178,70,2001,1,15,1
+11906,L. Chevalier,GK,64,France,19,2001-11-06,French Ligue 2,192,78,2001,11,6,4
+11912,Z. Ould Khaled,"CDM, CM",64,France,21,2000-01-14,French Ligue 1,195,79,2000,1,14,1
+11936,A. Flips,"RM, LM",64,France,21,2000-01-18,French Ligue 1,173,68,2000,1,18,1
+11971,A. Beka Beka,"CDM, CB, CM",64,France,20,2001-03-29,Russian Premier League,178,74,2001,3,29,1
+11977,K. Nsona,"LW, LM, RM",64,France,19,2002-05-11,French Ligue 2,189,74,2002,5,11,2
+12019,M. Karamoko,"ST, CF",64,France,21,1999-09-08,Austrian Football Bundesliga,188,88,1999,9,8,3
+12036,A. Gomis,CB,64,France,28,1992-07-19,French Ligue 2,185,83,1992,7,19,3
+12039,M. Guilavogui,"RW, LW",64,France,23,1998-03-10,French Ligue 2,188,81,1998,3,10,1
+12052,B. Domingues,"RM, CAM, LM",64,France,21,2000-06-06,French Ligue 1,172,63,2000,6,6,2
+12054,J. Moutachy,"RB, RM",64,France,23,1997-11-04,French Ligue 2,175,68,1997,11,4,4
+12083,B. Roux,CDM,64,France,21,1999-11-26,French Ligue 2,190,77,1999,11,26,4
+12084,J. Lepenant,"CDM, CM",64,France,18,2002-10-22,French Ligue 2,176,71,2002,10,22,4
+12085,A. Barry,"CB, CDM, RB",64,France,21,2000-02-21,German 1. Bundesliga,185,78,2000,2,21,1
+12101,N. Ahamada,CM,64,France,19,2002-03-29,German 1. Bundesliga,183,73,2002,3,29,1
+12106,S. PÃ©an,GK,64,France,21,1999-10-27,French Ligue 2,190,82,1999,10,27,4
+12172,I. Kandouss,CB,64,France,23,1997-11-12,Belgian Jupiler Pro League,192,83,1997,11,12,4
+12178,J. Le Cardinal,"CB, RB",64,France,23,1997-08-03,French Ligue 2,182,73,1997,8,3,3
+12179,Y. Bahassa,"RW, RM, LM",64,France,29,1992-05-21,French Ligue 2,187,79,1992,5,21,2
+12195,L. Joseph,ST,64,France,20,2000-10-12,French Ligue 1,180,70,2000,10,12,4
+12238,M. Saban,LM,64,France,19,2002-05-15,French Ligue 1,177,68,2002,5,15,2
+12307,Y. Bocognano,CB,63,France,31,1990-06-12,French Ligue 2,185,84,1990,6,12,2
+12368,B. Bertrand,GK,63,France,29,1992-06-24,French Ligue 2,186,76,1992,6,24,2
+12444,K. Rocheteau,"LM, ST",63,France,27,1993-07-10,French Ligue 2,179,71,1993,7,10,3
+12485,A. Mandrea,GK,63,France,24,1996-12-25,French Ligue 1,186,78,1996,12,25,4
+12502,G. Mutombo,CB,63,France,25,1996-01-19,French Ligue 1,191,75,1996,1,19,1
+12550,D. Dianessy,"CAM, LM, RM",63,France,25,1996-03-29,French Ligue 2,182,66,1996,3,29,1
+12577,M. Diallo,RB,63,France,24,1997-01-27,Swiss Super League,184,74,1997,1,27,1
+12578,A. Georgen,RB,63,France,22,1998-09-17,French Ligue 2,172,67,1998,9,17,3
+12586,V. Sanogo,ST,63,France,26,1995-04-22,Polish T-Mobile Ekstraklasa,186,85,1995,4,22,2
+12600,B. KonatÃ©,"CM, RM",63,France,25,1996-03-20,Spanish Segunda DivisiÃ³n,183,67,1996,3,20,1
+12653,Q. Daubin,"CDM, CM",63,France,25,1995-07-03,French Ligue 2,178,76,1995,7,3,3
+12699,L. Dias,GK,63,France,22,1999-05-22,French Ligue 2,185,80,1999,5,22,2
+12728,Ã. Youan,"ST, CAM",63,France,22,1999-04-07,Swiss Super League,183,78,1999,4,7,2
+12729,T. Basila,CB,63,France,22,1999-04-30,French Ligue 2,187,83,1999,4,30,2
+12731,M. DembÃ©lÃ©,"ST, RW, LM",63,France,24,1997-06-17,French Ligue 2,184,75,1997,6,17,2
+12742,T. Lebeau,"CM, CDM",63,France,22,1998-07-23,French Ligue 2,174,65,1998,7,23,3
+12745,D. Desprez,GK,63,France,22,1999-03-13,Belgian Jupiler Pro League,190,83,1999,3,13,1
+12752,K. Appin,CDM,63,France,23,1998-01-20,Spanish Segunda DivisiÃ³n,177,71,1998,1,20,1
+12755,W. Bianda,CB,63,France,21,2000-04-30,French Ligue 2,185,82,2000,4,30,2
+12759,J. CÃ©lestine,CB,63,France,23,1997-07-24,French Ligue 2,191,83,1997,7,24,3
+12771,G. Koyalipou,"RM, LM",63,France,21,2000-02-15,Swiss Super League,184,82,2000,2,15,1
+12773,M. Merghem,"RM, CM",63,France,23,1997-07-19,French Ligue 2,185,75,1997,7,19,3
+12782,J. Tell,"ST, LM, RM",63,France,24,1997-06-10,French Ligue 1,185,74,1997,6,10,2
+12827,J. Ponceau,"CAM, CM",63,France,20,2000-11-28,French Ligue 2,170,62,2000,11,28,4
+12851,R. Taillan,RB,63,France,29,1992-05-27,French Ligue 2,184,70,1992,5,27,2
+12855,D. Bertrand,"LM, RM",63,France,28,1993-05-21,French Ligue 2,176,65,1993,5,21,2
+12863,C. Vidal,CB,63,France,21,2000-06-18,French Ligue 2,181,75,2000,6,18,2
+12912,B. Fofana,LM,63,France,22,1998-09-07,Swiss Super League,183,74,1998,9,7,3
+12950,A. ZagrÃ©,LB,63,France,19,2001-10-04,Holland Eredivisie,168,60,2001,10,4,4
+12956,M. Diarra,"LWB, CB",63,France,20,2000-11-10,French Ligue 2,183,69,2000,11,10,4
+12958,D. Bakwa,LW,63,France,18,2002-08-26,French Ligue 1,179,77,2002,8,26,3
+12962,B. Santelli,"LM, ST, RW",63,France,29,1991-11-16,French Ligue 2,180,77,1991,11,16,4
+12992,Y. Bilingi,RB,63,France,22,1999-02-01,French Ligue 2,180,70,1999,2,1,1
+13056,A. Boutoutaou,"CAM, ST, RW",63,France,20,2001-02-18,French Ligue 2,169,56,2001,2,18,1
+13069,L. Tramoni,RM,63,France,18,2003-04-18,Italian Serie A,175,68,2003,4,18,2
+13104,N. Bruneel,"CM, CDM",63,France,24,1997-03-08,French Ligue 2,178,68,1997,3,8,1
+13111,D. Boudaud,"RM, LM",63,France,34,1987-02-10,French Ligue 2,173,70,1987,2,10,1
+13116,J. Kadile,"LW, RW, ST",63,France,18,2002-12-16,French Ligue 1,182,83,2002,12,16,4
+13117,L. Ugochukwu,CM,63,France,17,2004-03-26,French Ligue 1,188,83,2004,3,26,1
+13127,S. Benchamma,"CDM, CM",63,France,21,2000-06-25,French Ligue 2,185,71,2000,6,25,2
+13144,B. Brahimi,LW,63,France,21,2000-03-14,French Ligue 1,183,73,2000,3,14,1
+13159,G. TourÃ©,LW,63,France,27,1994-05-07,English League Two,188,88,1994,5,7,2
+13197,F. Da Silva,CM,63,France,18,2003-04-02,French Ligue 1,178,67,2003,4,2,2
+13206,L. Mouyokolo,CB,63,France,20,2001-05-22,French Ligue 1,194,85,2001,5,22,2
+13267,K. Nagera,"ST, LW",63,France,19,2002-02-21,French Ligue 2,177,65,2002,2,21,1
+13270,M. EstÃ¨ve,CB,63,France,19,2002-05-26,French Ligue 1,193,87,2002,5,26,2
+13274,A. Ba,CM,63,France,17,2003-07-31,French Ligue 2,180,75,2003,7,31,3
+13323,I. Gharbi,"LW, CAM",63,France,17,2004-04-10,French Ligue 1,167,58,2004,4,10,2
+13330,K. Serber,CM,63,France,22,1998-07-03,French Ligue 2,172,70,1998,7,3,3
+13384,G. Coulibaly,"CDM, CB",62,France,35,1986-03-30,French Ligue 2,183,79,1986,3,30,1
+13407,M. Baudry,CB,62,France,33,1988-02-24,English League Two,188,80,1988,2,24,1
+13599,N. DekokÃ©,"LB, CB",62,France,25,1996-01-06,French Ligue 2,180,76,1996,1,6,1
+13620,R. Pereira de Sa,"CM, LM",62,France,24,1996-12-10,French Ligue 1,177,71,1996,12,10,4
+13683,M. DoucourÃ©,"CB, CDM",62,France,23,1998-05-21,German 1. Bundesliga,183,78,1998,5,21,2
+13707,M. Cabit,LB,62,France,28,1993-06-03,French Ligue 1,180,75,1993,6,3,2
+13731,Y. Severin,"CB, LB",62,France,24,1997-01-24,Swiss Super League,188,79,1997,1,24,1
+13759,E. Massouema,"CM, CDM",62,France,24,1997-06-29,French Ligue 1,185,78,1997,6,29,2
+13787,A. Gnahoua,ST,62,France,29,1992-04-05,English League One,185,80,1992,4,5,2
+13794,R. Muhammed,ST,62,France,27,1993-09-25,Norwegian Eliteserien,184,82,1993,9,25,3
+13819,Y. Fofana,GK,62,France,20,2000-08-21,French Ligue 2,194,89,2000,8,21,3
+13823,A. TraorÃ©,"RM, CM",62,France,20,2001-01-08,Italian Serie B,188,81,2001,1,8,1
+13843,P. Marie,"RB, LB",62,France,26,1995-03-24,USA Major League Soccer,173,69,1995,3,24,1
+13845,Y. Begraoui,"RM, ST",62,France,19,2001-07-04,French Ligue 2,178,70,2001,7,4,3
+13855,F. Chabrolle,"CAM, RW",62,France,23,1998-04-07,French Ligue 2,171,65,1998,4,7,2
+13860,M. Drammeh,"CDM, CB",62,France,22,1999-05-15,Danish Superliga,188,75,1999,5,15,2
+13876,K. KaÃ¯bouÃ©,"LB, CDM",62,France,22,1998-08-20,French Ligue 2,182,65,1998,8,20,3
+13913,M. Siby,"CDM, CM",62,France,24,1996-07-07,French Ligue 1,191,84,1996,7,7,3
+13919,T. Cissokho,CB,62,France,21,2000-02-08,French Ligue 2,200,88,2000,2,8,1
+13938,L. Carnot,"CM, CDM",62,France,20,2001-02-25,French Ligue 2,181,73,2001,2,25,1
+13953,B. Doukansy,CDM,62,France,21,1999-08-21,French Ligue 2,188,67,1999,8,21,3
+14010,J. Sylvestre-Brac,RB,62,France,22,1998-08-18,French Ligue 2,185,75,1998,8,18,3
+14012,R. Sila,"ST, LW",62,France,23,1998-01-04,Romanian Liga I,185,78,1998,1,4,1
+14041,A. ValÃ©rio,CM,62,France,21,1999-12-11,French Ligue 2,185,75,1999,12,11,4
+14066,N. Nkounkou,LB,62,France,20,2000-11-01,Belgian Jupiler Pro League,180,78,2000,11,1,4
+14095,S. Renel,"CAM, LM",62,France,19,2001-11-03,French Ligue 2,183,71,2001,11,3,4
+14104,D. Bansais,"RB, LB",62,France,27,1994-01-08,French Ligue 2,177,71,1994,1,8,1
+14105,L. Bury,"CB, LB",62,France,25,1995-07-10,French Ligue 2,184,77,1995,7,10,3
+14109,W. Omari,"CB, CDM",62,France,21,2000-04-23,French Ligue 1,185,78,2000,4,23,2
+14111,J. Huysman,"CDM, CB",62,France,32,1988-11-08,French Ligue 2,188,84,1988,11,8,4
+14118,I. DoukourÃ©,CB,62,France,17,2003-07-24,French Ligue 2,182,70,2003,7,24,3
+14122,M. Picouleau,CM,62,France,21,2000-05-08,French Ligue 2,171,63,2000,5,8,2
+14129,W. Bondo,"CM, RM",62,France,17,2003-09-15,French Ligue 2,177,63,2003,9,15,3
+14198,Y. SoumarÃ©,RW,62,France,21,2000-06-23,French Ligue 2,173,55,2000,6,23,2
+14242,L. Assignon,RB,62,France,21,2000-06-22,French Ligue 1,179,67,2000,6,22,2
+14243,A. Nazih,GK,62,France,19,2002-01-18,French Ligue 2,192,76,2002,1,18,1
+14256,K. Sildillia,CB,62,France,19,2002-05-16,German 1. Bundesliga,186,79,2002,5,16,2
+14284,A. Richardson,CDM,62,France,19,2002-01-24,French Ligue 2,190,77,2002,1,24,1
+14290,S. Guibert,"CB, CDM",62,France,32,1989-01-22,French Ligue 2,188,82,1989,1,22,1
+14309,M. Bokele,CB,62,France,21,2000-02-12,French Ligue 1,180,70,2000,2,12,1
+14362,S. Baghdadi,"ST, LM, RM",62,France,23,1997-07-11,Holland Eredivisie,189,80,1997,7,11,3
+14378,H. Camara,CB,62,France,19,2002-01-17,French Ligue 2,197,85,2002,1,17,1
+14384,K. Zedadka,"LM, CM, LB",62,France,21,2000-06-09,Belgian Jupiler Pro League,182,67,2000,6,9,2
+14444,T. Dieng,"CM, CB",61,France,29,1992-04-09,English League Two,189,79,1992,4,9,2
+14484,D. Trichard,LB,61,France,26,1995-03-27,French Ligue 2,176,70,1995,3,27,1
+14495,F. Sollacaro,GK,61,France,27,1994-03-21,French Ligue 2,181,75,1994,3,21,1
+14499,N. Atangana,"CM, CDM",61,France,31,1989-09-09,English League Two,187,72,1989,9,9,3
+14576,Q. Bena,"CDM, CM",61,France,23,1998-05-11,French Ligue 2,185,79,1998,5,11,2
+14608,J. Albert,CB,61,France,29,1992-01-21,French Ligue 1,185,86,1992,1,21,1
+14635,I. Aaneba,"RB, CB",61,France,22,1999-05-29,French Ligue 2,182,75,1999,5,29,2
+14657,E. Taha,ST,61,France,22,1999-03-14,French Ligue 2,174,70,1999,3,14,1
+14658,L. Buades,"RM, ST",61,France,23,1997-12-28,French Ligue 2,180,75,1997,12,28,4
+14671,C. Goteni,CB,61,France,23,1997-11-30,French Ligue 2,190,84,1997,11,30,4
+14712,G. Arib,"CDM, CM",61,France,21,1999-11-02,French Ligue 2,168,63,1999,11,2,4
+14714,S. Essende,ST,61,France,23,1998-01-23,French Ligue 2,192,87,1998,1,23,1
+14716,V. Gendrey,"CB, RB",61,France,21,2000-06-21,Italian Serie B,179,75,2000,6,21,2
+14721,J. Khasa,"RM, LM, ST",61,France,23,1997-11-04,Swiss Super League,187,84,1997,11,4,4
+14732,E. Joseph,"LM, ST",61,France,21,1999-07-16,French Ligue 2,177,71,1999,7,16,3
+14775,S. Chergui,"CDM, RB, CB",61,France,22,1999-02-06,French Ligue 2,183,78,1999,2,6,1
+14779,L. PÃ©trot,"LB, CB",61,France,24,1997-04-15,French Ligue 1,188,81,1997,4,15,2
+14780,A. Linguet,"RB, RWB",61,France,21,1999-08-17,French Ligue 2,180,72,1999,8,17,3
+14783,N. Ngoumou,"LW, RW",61,France,21,2000-03-14,French Ligue 2,182,70,2000,3,14,1
+14785,T. Tormin,RW,61,France,20,2001-06-29,French Ligue 2,172,67,2001,6,29,2
+14791,S. Raux-Yao,CB,61,France,22,1999-05-30,Belgian Jupiler Pro League,196,87,1999,5,30,2
+14793,B. Ndilu,ST,61,France,20,2000-07-21,French Ligue 2,186,80,2000,7,21,3
+14805,J. Papeau,"LM, LW, CM",61,France,25,1996-06-30,Polish T-Mobile Ekstraklasa,179,80,1996,6,30,2
+14814,R. Ndiaye,"CDM, CM",61,France,19,2001-12-11,French Ligue 2,179,70,2001,12,11,4
+14820,D. Rouyard,GK,61,France,21,1999-08-17,French Ligue 1,194,90,1999,8,17,3
+14823,D. Fage,"RWB, RB",61,France,22,1999-03-18,English League Two,178,70,1999,3,18,1
+14824,Y. Larouci,LB,61,France,20,2001-01-01,French Ligue 1,175,68,2001,1,1,1
+14827,S. Sanna,"RWB, CDM",61,France,22,1999-03-08,French Ligue 2,170,64,1999,3,8,1
+14901,A. Kamardin,CB,61,France,19,2002-04-08,French Ligue 1,183,72,2002,4,8,2
+14905,T. Vannoye,"CB, RB",61,France,22,1998-07-11,French Ligue 2,183,78,1998,7,11,3
+14909,A. Kerouedan,"RWB, LW, RW",61,France,21,2000-01-12,French Ligue 2,173,66,2000,1,12,1
+14913,N. Fatar,RW,61,France,19,2002-02-15,French Ligue 1,167,62,2002,2,15,1
+14920,H. Ekitike,ST,61,France,19,2002-06-20,French Ligue 1,189,70,2002,6,20,2
+14937,J. Hadjam,"LB, CB",61,France,18,2003-03-26,French Ligue 2,184,83,2003,3,26,1
+14941,Y. Cimignani,"LM, RM",61,France,19,2002-01-22,French Ligue 2,176,68,2002,1,22,1
+14944,R. Vita,"LWB, LB",61,France,20,2001-04-01,English League Championship,170,66,2001,4,1,2
+14976,M. SangarÃ©,ST,61,France,22,1998-12-24,French Ligue 2,195,80,1998,12,24,4
+15019,M. Lachuer,"CAM, CM, CDM",61,France,20,2000-08-31,French Ligue 2,170,65,2000,8,31,3
+15021,R. Ascone,CM,61,France,17,2003-09-12,French Ligue 1,180,67,2003,9,12,3
+15022,B. RacoviÈan,CB,61,France,21,2000-06-06,Romanian Liga I,185,80,2000,6,6,2
+15039,S. Coulibaly,CB,61,France,17,2003-10-14,German 1. Bundesliga,190,82,2003,10,14,4
+15051,L. CissÃ©,"RM, ST",61,France,18,2003-02-15,French Ligue 2,179,69,2003,2,15,1
+15053,M. DoucourÃ©,ST,61,France,21,2000-05-22,French Ligue 2,181,75,2000,5,22,2
+15063,M. Diongue,CM,61,France,29,1992-04-03,French Ligue 2,179,66,1992,4,3,2
+15090,Y. Guermouche,ST,61,France,20,2001-04-15,French Ligue 1,192,83,2001,4,15,2
+15102,M. Ouadah,"CAM, LM, CM",61,France,26,1994-08-31,French Ligue 2,175,64,1994,8,31,3
+15112,P. Sciortino,CDM,61,France,17,2003-11-05,French Ligue 1,177,70,2003,11,5,4
+15116,G. Manvelyan,"CAM, CM, CF",61,France,19,2002-04-09,French Ligue 1,180,68,2002,4,9,2
+15127,S. Ben Seghir,RW,61,France,18,2003-02-24,French Ligue 1,174,57,2003,2,24,1
+15138,N. Bitumazala,"RB, CDM",61,France,18,2002-12-10,French Ligue 1,178,68,2002,12,10,4
+15162,M. Soulas,CB,61,France,22,1999-04-19,Danish Superliga,191,74,1999,4,19,2
+15202,J. Phojo,RB,60,France,28,1993-04-15,French Ligue 1,178,71,1993,4,15,2
+15247,M. Do Couto,"LM, CAM",60,France,24,1996-12-13,French Ligue 2,172,62,1996,12,13,4
+15250,S. Shamal,"LM, ST",60,France,25,1996-02-22,French Ligue 2,181,73,1996,2,22,1
+15275,R. Diarra,"CB, CDM",60,France,26,1995-05-27,English League Two,185,76,1995,5,27,2
+15318,M. Nanizayamo,CB,60,France,23,1998-05-08,Swiss Super League,191,88,1998,5,8,2
+15340,G. Coudert,GK,60,France,22,1999-04-03,French Ligue 1,191,83,1999,4,3,2
+15415,K. Bafounta,CDM,60,France,19,2002-01-08,German 3. Bundesliga,192,87,2002,1,8,1
+15436,A. Gomez Mancini,"CM, CAM",60,France,20,2001-04-06,English Premier League,176,64,2001,4,6,2
+15440,D. Diani,"CDM, CB, CM",60,France,23,1998-02-11,Swiss Super League,193,77,1998,2,11,1
+15465,T. Ducrocq,"CM, CDM",60,France,21,1999-08-25,French Ligue 2,176,62,1999,8,25,3
+15467,J. Boyer,LB,60,France,23,1998-04-10,French Ligue 1,176,74,1998,4,10,2
+15472,M. Kapo,"CDM, CM",60,France,20,2001-01-19,Swiss Super League,188,72,2001,1,19,1
+15495,A. Lebeau,"CAM, LM",60,France,21,1999-07-08,German 3. Bundesliga,175,69,1999,7,8,3
+15497,O. Camara,CM,60,France,22,1998-12-19,French Ligue 2,184,80,1998,12,19,4
+15498,L. Sinayoko,ST,60,France,21,1999-12-08,French Ligue 2,186,81,1999,12,8,4
+15506,O. Djoco,GK,60,France,23,1998-04-22,French Ligue 1,188,90,1998,4,22,2
+15518,W. TaÃ¯bi,"CM, CAM",60,France,19,2002-03-07,French Ligue 1,184,70,2002,3,7,1
+15611,L. Lacroix,CB,60,France,18,2003-02-06,French Ligue 1,186,72,2003,2,6,1
+15633,C. Zabou,"LW, RW, CM",60,France,25,1996-06-18,French Ligue 2,180,74,1996,6,18,2
+15636,U. Bertelli,CM,60,France,17,2003-07-15,French Ligue 1,168,62,2003,7,15,3
+15646,C. SouarÃ©,CM,60,France,18,2002-09-03,French Ligue 1,170,61,2002,9,3,3
+15681,P. MÃ©liande,LW,60,France,19,2001-12-20,French Ligue 2,181,72,2001,12,20,4
+15683,O. Camara,"CDM, CB",60,France,18,2003-03-06,French Ligue 2,197,90,2003,3,6,1
+15705,E. Mahmoud,LM,60,France,20,2001-02-10,French Ligue 2,177,68,2001,2,10,1
+15709,M. Majouga,RM,60,France,20,2001-05-09,French Ligue 2,182,78,2001,5,9,2
+15712,B. M'Bondo,CB,60,France,19,2001-10-30,French Ligue 2,186,78,2001,10,30,4
+15780,I. Kanda,RB,60,France,20,2000-11-08,Romanian Liga I,180,72,2000,11,8,4
+15813,Q. Merlin,"CAM, LM",60,France,19,2002-05-16,French Ligue 1,173,67,2002,5,16,2
+15814,B. TraorÃ©,"CB, CDM",60,France,17,2004-02-04,French Ligue 2,190,80,2004,2,4,1
+15819,A. Hountondji,"LM, ST",60,France,18,2002-07-11,French Ligue 2,175,64,2002,7,11,3
+15820,T. Arconte,"RW, LW",60,France,17,2003-11-12,French Ligue 2,181,76,2003,11,12,4
+15852,N. El Aynaoui,CM,60,France,19,2001-07-02,French Ligue 2,186,78,2001,7,2,3
+15854,M. Sivis,RB,60,France,23,1998-04-01,French Ligue 2,180,79,1998,4,1,2
+15867,M. Senaya,RB,60,France,20,2001-01-28,French Ligue 2,179,75,2001,1,28,1
+15873,T. BaldÃ©,"RB, CB",60,France,19,2002-06-10,French Ligue 2,182,68,2002,6,10,2
+15880,W. Lgharbi,"CM, CDM",60,France,18,2003-01-25,French Ligue 1,173,58,2003,1,25,1
+15886,Y. M'Bemba,"CB, CDM",60,France,20,2001-07-01,French Ligue 1,195,75,2001,7,1,3
+15895,B. Nadir,"CM, CDM",60,France,17,2003-11-28,French Ligue 1,179,62,2003,11,28,4
+15911,B. Locko,LB,60,France,19,2002-05-06,French Ligue 1,180,65,2002,5,6,2
+15917,S. Delaye,"CM, CAM",60,France,19,2002-04-23,French Ligue 1,171,60,2002,4,23,2
+15938,J. Gorby,"CDM, CM",60,France,18,2002-07-25,Portuguese Liga ZON SAGRES,181,65,2002,7,25,3
+15948,N. Koffi,ST,60,France,19,2002-03-09,French Ligue 1,183,74,2002,3,9,1
+15955,R. Lejeune,GK,59,France,30,1991-05-21,French Ligue 2,182,81,1991,5,21,2
+16061,S. Sissoko,"RB, LB",59,France,22,1999-04-27,French Ligue 1,186,73,1999,4,27,2
+16098,M. Bernauer,"RB, CB",59,France,23,1998-07-01,French Ligue 2,186,77,1998,7,1,3
+16101,L. Costa,CB,59,France,20,2001-04-01,French Ligue 2,188,87,2001,4,1,2
+16134,H. Constant,GK,59,France,21,1999-11-26,French Ligue 2,183,75,1999,11,26,4
+16140,A. TÃ©gar,LB,59,France,20,2000-08-12,French Ligue 2,180,75,2000,8,12,3
+16159,T. Thomas,"CM, CDM",59,France,19,2002-01-12,French Ligue 1,183,74,2002,1,12,1
+16164,U. Eneme-Ella,"CAM, CM",59,France,20,2001-05-22,English Premier League,184,75,2001,5,22,2
+16168,S. Loric,LB,59,France,20,2000-07-05,French Ligue 1,183,73,2000,7,5,3
+16182,R. Yapi,"RWB, RB",59,France,20,2000-07-13,Holland Eredivisie,178,70,2000,7,13,3
+16208,G. Coelho,RWB,59,France,21,1999-09-02,French Ligue 2,180,75,1999,9,2,3
+16210,T. Tamas,LB,59,France,20,2001-02-20,French Ligue 1,178,68,2001,2,20,1
+16281,K. Boma,CB,59,France,18,2002-11-20,French Ligue 1,187,73,2002,11,20,4
+16289,L. Hervieu,"CM, RB",59,France,21,2000-04-05,French Ligue 2,172,64,2000,4,5,2
+16294,I. TourÃ©,CB,59,France,18,2003-03-28,French Ligue 2,190,75,2003,3,28,1
+16296,Y. Gomes,ST,59,France,18,2002-07-22,French Ligue 2,174,67,2002,7,22,3
+16354,J. Casimir,ST,59,France,19,2001-09-24,French Ligue 2,178,74,2001,9,24,3
+16407,A. Malanda,CB,59,France,19,2001-10-29,French Ligue 2,185,75,2001,10,29,4
+16432,M. Elimbi,CB,59,France,18,2003-02-20,French Ligue 1,186,75,2003,2,20,1
+16439,Y. Cathline,LM,59,France,18,2002-07-22,French Ligue 2,176,68,2002,7,22,3
+16442,M. Riou,CB,59,France,20,2001-01-19,French Ligue 2,185,75,2001,1,19,1
+16448,L. Bonelli,GK,59,France,18,2003-02-14,French Ligue 1,191,76,2003,2,14,1
+16450,J. Gaudin,RM,59,France,21,2000-05-09,French Ligue 2,180,71,2000,5,9,2
+16451,M. Kaba,CM,59,France,19,2001-10-27,French Ligue 2,180,71,2001,10,27,4
+16457,L. Delpech,"CM, CAM",59,France,18,2002-08-13,French Ligue 2,178,68,2002,8,13,3
+16471,N. Sow,"CDM, CB",59,France,22,1998-12-18,French Ligue 1,180,71,1998,12,18,4
+16472,R. BourlÃ¨s,"CM, LM",59,France,18,2003-01-02,French Ligue 1,186,74,2003,1,2,1
+16523,S. Bastien,GK,58,France,26,1995-01-22,English League Two,196,91,1995,1,22,1
+16614,M. DembÃ©lÃ©,"CB, RB",58,France,22,1999-04-10,French Ligue 2,186,78,1999,4,10,2
+16642,S. Bouzar,"RB, CB",58,France,21,1999-08-16,French Ligue 2,184,79,1999,8,16,3
+16663,T. Secchi,GK,58,France,24,1997-06-19,French Ligue 2,185,75,1997,6,19,2
+16669,R. Bouallak,GK,58,France,21,1999-08-19,French Ligue 1,190,75,1999,8,19,3
+16678,N. ZohorÃ©,CB,58,France,20,2000-11-17,French Ligue 2,188,75,2000,11,17,4
+16679,D. Youfeigane,GK,58,France,21,2000-02-07,French Ligue 2,188,84,2000,2,7,1
+16772,R. Ponti,"LW, LM",58,France,23,1998-06-22,French Ligue 2,185,74,1998,6,22,2
+16774,J. Ngouabi,"CB, CDM",58,France,18,2003-01-16,French Ligue 2,197,83,2003,1,16,1
+16785,M. Fofana,"CM, CDM",58,France,20,2000-09-17,French Ligue 2,177,70,2000,9,17,3
+16846,T. Rapnouil,"CDM, LB, LM",58,France,20,2001-02-09,French Ligue 2,188,68,2001,2,9,1
+16864,Y. Cassubie,"CDM, RB",58,France,20,2000-10-18,French Ligue 2,184,78,2000,10,18,4
+16869,M. BangrÃ©,LM,58,France,20,2001-06-15,French Ligue 2,170,65,2001,6,15,2
+16874,Y. Pandor,GK,58,France,20,2001-05-01,French Ligue 1,178,73,2001,5,1,2
+16878,H. Tebily,ST,58,France,19,2002-01-24,French Ligue 2,182,75,2002,1,24,1
+16898,T. Malbec,GK,58,France,19,2001-11-03,French Ligue 1,187,70,2001,11,3,4
+16903,A. Cissoko,CB,58,France,21,1999-12-27,USA Major League Soccer,191,79,1999,12,27,4
+16928,T. Le Normand,LM,58,France,20,2000-08-08,French Ligue 2,178,75,2000,8,8,3
+16947,M. Alfarela,ST,58,France,23,1997-11-15,French Ligue 2,173,67,1997,11,15,4
+16954,M. Dabre,"CAM, RM, CM",58,France,18,2003-01-22,English League Two,168,67,2003,1,22,1
+16986,A. Camblan,CAM,58,France,18,2003-06-18,French Ligue 1,168,60,2003,6,18,2
+17087,T. Callens,GK,57,France,22,1998-09-06,French Ligue 1,182,81,1998,9,6,3
+17107,L. Pelletier,GK,57,France,21,2000-02-03,French Ligue 2,186,75,2000,2,3,1
+17151,C. Bombo,CDM,57,France,22,1999-01-18,French Ligue 1,183,67,1999,1,18,1
+17170,L. Francillette,CB,57,France,22,1999-05-01,English League Two,193,81,1999,5,1,2
+17187,B. Koumetio,CB,57,France,18,2002-11-14,English Premier League,195,81,2002,11,14,4
+17209,A. Zinga,ST,57,France,20,2000-07-15,French Ligue 2,185,70,2000,7,15,3
+17221,D. Salhi,GK,57,France,22,1999-07-01,French Ligue 2,184,74,1999,7,1,3
+17226,J. Rahou,"ST, CAM",57,France,18,2003-02-02,French Ligue 1,176,69,2003,2,2,1
+17227,P. Bourdelle,GK,57,France,20,2000-09-08,French Ligue 2,191,78,2000,9,8,3
+17232,L. Margueron,GK,57,France,20,2001-02-12,French Ligue 1,194,85,2001,2,12,1
+17254,M. Xantippe,"CB, LB",57,France,19,2002-04-11,French Ligue 2,183,70,2002,4,11,2
+17274,D. Sea,ST,57,France,20,2000-09-08,English League Two,181,65,2000,9,8,3
+17348,A. Jourda,RB,57,France,19,2001-07-15,French Ligue 2,180,80,2001,7,15,3
+17353,K. Corredor,CF,57,France,20,2000-12-04,French Ligue 2,182,72,2000,12,4,4
+17359,H. Barbet,GK,57,France,20,2001-06-22,French Ligue 2,189,81,2001,6,22,2
+17379,I. BaldÃ©,ST,57,France,18,2003-01-17,French Ligue 1,185,75,2003,1,17,1
+17389,Q. Galvez-Diarra,GK,57,France,19,2001-09-08,French Ligue 2,188,78,2001,9,8,3
+17394,A. Francke,ST,57,France,19,2002-02-14,French Ligue 2,180,72,2002,2,14,1
+17424,E. Philibert,"CB, CDM",57,France,19,2002-05-13,French Ligue 2,193,78,2002,5,13,2
+17466,J. Louchet,GK,56,France,25,1996-02-03,French Ligue 2,190,73,1996,2,3,1
+17530,P. Ekwah Elimby,"CDM, CB",56,France,19,2002-01-15,English Premier League,187,76,2002,1,15,1
+17532,A. Tchaptchet,CB,56,France,19,2001-12-21,English Premier League,186,78,2001,12,21,4
+17541,N. Jaby,CDM,56,France,20,2001-04-20,French Ligue 1,175,68,2001,4,20,2
+17545,D. Meddah,CM,56,France,18,2002-10-06,French Ligue 2,187,78,2002,10,6,4
+17556,J. Evan's,LM,56,France,22,1998-12-17,French Ligue 2,180,70,1998,12,17,4
+17580,T. Bartouche-Selbonne,GK,56,France,24,1997-06-05,French Ligue 1,178,70,1997,6,5,2
+17605,H. Gambor,CB,56,France,18,2002-12-30,French Ligue 2,186,77,2002,12,30,4
+17635,Y. Maronne,GK,56,France,19,2002-04-20,French Ligue 2,183,75,2002,4,20,2
+17709,W. Mikelbrencis,RB,56,France,17,2004-02-25,French Ligue 1,175,65,2004,2,25,1
+17717,A. Roncaglia,"CB, RB",56,France,21,1999-08-30,French Ligue 2,180,70,1999,8,30,3
+17718,J. Rotsen,CM,56,France,24,1996-08-11,French Ligue 2,177,64,1996,8,11,3
+17725,J. Makengo,CB,56,France,19,2001-08-03,German 3. Bundesliga,183,75,2001,8,3,3
+17739,E. Belhadji,"RM, RB",56,France,20,2001-06-22,French Ligue 2,187,75,2001,6,22,2
+17742,H. Far,ST,56,France,19,2002-02-16,French Ligue 2,179,65,2002,2,16,1
+17749,T. De Percin,GK,56,France,20,2001-02-02,French Ligue 2,185,81,2001,2,2,1
+17750,K. Silvestre,RW,56,France,18,2002-08-16,French Ligue 2,183,70,2002,8,16,3
+17754,A. Demouchy,CB,56,France,19,2002-05-31,French Ligue 2,186,77,2002,5,31,2
+17757,G. Quilichini,GK,56,France,18,2002-09-01,French Ligue 2,182,70,2002,9,1,3
+17760,M. Nonnenmacher,"CDM, CM",56,France,18,2002-07-23,French Ligue 2,180,69,2002,7,23,3
+17762,Z. Labyad,"ST, RW",56,France,21,2000-03-07,French Ligue 2,180,68,2000,3,7,1
+17775,M. KonÃ©,GK,56,France,19,2002-03-07,French Ligue 2,186,78,2002,3,7,1
+17778,B. Brahimi,LM,56,France,21,2000-03-28,French Ligue 2,177,70,2000,3,28,1
+17785,H. Diarra,CDM,56,France,17,2004-01-03,French Ligue 1,179,74,2004,1,3,1
+17876,I. Karamoko,CM,55,France,20,2001-06-23,Italian Serie A,187,79,2001,6,23,2
+17941,K. Chapelle,"RM, LM",55,France,21,2000-03-28,French Ligue 2,174,70,2000,3,28,1
+18036,I. Tshipamba,"RM, CAM",55,France,20,2000-11-09,Rep. Ireland Airtricity League,180,64,2000,11,9,4
+18079,T. Loridan,CB,55,France,18,2003-04-09,French Ligue 2,185,73,2003,4,9,2
+18085,P. Joly,CB,55,France,21,2000-06-07,French Ligue 2,182,75,2000,6,7,2
+18086,M. Viltard,CM,55,France,18,2002-10-24,French Ligue 2,176,68,2002,10,24,4
+18112,N. Saintini,CB,55,France,21,2000-05-30,Swiss Super League,188,85,2000,5,30,2
+18113,N. Mercier,RW,55,France,18,2003-01-30,French Ligue 2,174,70,2003,1,30,1
+18115,O. Gene,CM,55,France,18,2003-03-19,French Ligue 2,180,75,2003,3,19,1
+18116,M. Rongier,GK,55,France,19,2002-04-10,French Ligue 2,185,75,2002,4,10,2
+18312,K. Monzialo,LW,54,France,20,2000-07-28,Swiss Super League,185,75,2000,7,28,3
+18341,R. Djedje,"CDM, CB",54,France,19,2001-07-04,Belgian Jupiler Pro League,183,78,2001,7,4,3
+18375,S. Goma,ST,54,France,19,2001-11-15,Romanian Liga I,183,73,2001,11,15,4
+18381,A. Delphis,CM,54,France,18,2003-03-17,French Ligue 2,178,68,2003,3,17,1
+18424,I. Hamache,RW,54,France,18,2003-02-11,French Ligue 2,172,68,2003,2,11,1
+18435,B. Nkololo,CAM,53,France,24,1996-11-06,Australian Hyundai A-League,187,75,1996,11,6,4
+18837,M. Mastil,GK,52,France,21,2000-02-19,Swiss Super League,196,92,2000,2,19,1

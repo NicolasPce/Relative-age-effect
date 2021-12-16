@@ -1,0 +1,92 @@
+,Nombre,Nacimiento,Categoria,year,month,day,trimestre
+0,Samuel Alcázar Martín,08/07/2015,Prebenjamin,2015,8,7,3
+1,Alejandro Bellvís Alcázar,08/10/2015,Prebenjamin,2015,8,10,3
+2,Diego Alonso Guerrero,02/01/2015,Prebenjamin,2015,2,1,1
+3,Fernando Torres de Lago,28/02/2015,Prebenjamin,2015,2,28,1
+4,Hugo Herrero Hierrezuelo,28/01/2015,Prebenjamin,2015,1,28,1
+5,Liam Román Ordejón,24/02/2015,Prebenjamin,2015,2,24,1
+6,Alejandro Alves Fernandes,17/02/2015,Prebenjamin,2015,2,17,1
+7,José Antonio del Pino López,21/02/2015,Prebenjamin,2015,2,21,1
+8,Manuel Salvador López Laruelo,13/04/2015,Prebenjamin,2015,4,13,2
+9,Hugo Gutiérrez García,08/04/2014,Prebenjamin,2014,8,4,3
+10,Adrián Borislavov Asenov,26/03/2014,Prebenjamin,2014,3,26,1
+11,Adrián Sánchez Morales,24/02/2014,Prebenjamin,2014,2,24,1
+12,Daniel Havrylyak,07/03/2014,Prebenjamin,2014,7,3,3
+13,Fawaz Zanzi Awudu,16/03/2014,Prebenjamin,2014,3,16,1
+14,Darío Vélez Cortés,01/07/2014,Prebenjamin,2014,1,7,1
+15,Joel Mateo Canorea,25/01/2014,Prebenjamin,2014,1,25,1
+16,Hugo Grande Asensio,06/01/2014,Prebenjamin,2014,6,1,2
+17,Matías Iglesias Villaseñor,24/02/2014,Prebenjamin,2014,2,24,1
+18,Ethan Balboa Rodríguez,06/04/2014,Prebenjamin,2014,6,4,2
+19,Hugo Mateo Canorea,25/01/2014,Prebenjamin,2014,1,25,1
+20,Francisco Javier Albes Marina,07/02/2014,Prebenjamin,2014,7,2,3
+0,Vicente Colomo Estebaranz,31/03/2013,Benjamin,2013,3,31,1
+1,Rafael Ruiz Gómez,29/04/2013,Benjamin,2013,4,29,2
+2,Álvaro Montoro Briones,08/04/2013,Benjamin,2013,8,4,3
+3,Hugo Fernández Martín,07/05/2013,Benjamin,2013,7,5,3
+4,Izan García Girón,04/05/2013,Benjamin,2013,4,5,2
+5,Alonso Macías Parra,24/02/2013,Benjamin,2013,2,24,1
+6,David Marcos Tejado,29/03/2013,Benjamin,2013,3,29,1
+7,Diego Laso Vinuesa,10/05/2013,Benjamin,2013,10,5,4
+8,Gonzalo Romeral Cuello,11/01/2013,Benjamin,2013,11,1,4
+9,Carlos Bellvís Alcázar,29/03/2013,Benjamin,2013,3,29,1
+10,Lucas Gómez Saldaña,09/01/2012,Benjamin,2012,9,1,3
+11,Guillermo Cubero Fernández,14/01/2012,Benjamin,2012,1,14,1
+12,Rubén Mallo Élices,04/01/2012,Benjamin,2012,4,1,2
+13,Daniel Díaz Romero,13/03/2012,Benjamin,2012,3,13,1
+14,Víctor Martín Martín,25/01/2012,Benjamin,2012,1,25,1
+15,Pablo García López,01/03/2012,Benjamin,2012,1,3,1
+16,Pablo Martínez Fernández,10/01/2012,Benjamin,2012,10,1,4
+17,Unai Gonzalo Luque,24/01/2012,Benjamin,2012,1,24,1
+18,Daniel Jurado Patiño,01/01/2012,Benjamin,2012,1,1,1
+19,Rubén Martín Martín,25/01/2012,Benjamin,2012,1,25,1
+20,Lil Yeiniel Martínez Román,01/04/2012,Benjamin,2012,1,4,1
+21,Olivier Telus Ovalle,23/04/2012,Benjamin,2012,4,23,2
+22,Álex Muñoz Zayas,20/11/2012,Benjamin,2012,11,20,4
+0,Pablo Alvarado García,07/07/2011,Alevin,2011,7,7,3
+1,Leo Álvarez Campoverde,16/01/2011,Alevin,2011,1,16,1
+2,Adrián Serrano Cantero,16/02/2011,Alevin,2011,2,16,1
+3,Carlos Palazuelos Carnicero,14/03/2011,Alevin,2011,3,14,1
+4,Sergio de Diego Lara,18/01/2011,Alevin,2011,1,18,1
+5,Paúl Riesgo Madariaga,03/03/2011,Alevin,2011,3,3,1
+6,Beltrán Guillén Pérez de Tudela,27/07/2011,Alevin,2011,7,27,3
+7,Julio Alonso Sánchez,15/03/2011,Alevin,2011,3,15,1
+8,Marcos Carrasco Cristóbal,29/01/2011,Alevin,2011,1,29,1
+9,Rubén Pulido Jimeno,26/07/2011,Alevin,2011,7,26,3
+10,Pablo Mínguez Castro,03/03/2011,Alevin,2011,3,3,1
+11,Enzo Sanz Gracia,05/08/2011,Alevin,2011,5,8,2
+12,Joan Steven Asencio Obando,04/02/2011,Alevin,2011,4,2,2
+13,Alberto Romero Sanz,16/09/2011,Alevin,2011,9,16,3
+14,Martín Moral Gómez,09/02/2011,Alevin,2011,9,2,3
+15,Jesús Navarro Sánchez,19/08/2011,Alevin,2011,8,19,3
+16,Sergio  Valverde Martín,28/05/2011,Alevin,2011,5,28,2
+17,Rubén Lebrero Pérez,06/05/2011,Alevin,2011,6,5,2
+18,Ignacio Oliver Rey,03/08/2011,Alevin,2011,3,8,1
+19,Hugo Fernández Gallardo,09/02/2011,Alevin,2011,9,2,3
+20,Hugo Lobato García,28/05/2011,Alevin,2011,5,28,2
+21,Pablo Asencio Ariza,09/02/2011,Alevin,2011,9,2,3
+22,Alejandro Valenzuela Alonso,18/02/2011,Alevin,2011,2,18,1
+23,Nicolás Trigo Barrios,05/02/2011,Alevin,2011,5,2,2
+24,Adam Essid García,25/02/2011,Alevin,2011,2,25,1
+25,Dennis Adrián Ene,04/01/2010,Alevin,2010,4,1,2
+26,Nicolás Budach Vicente,09/02/2010,Alevin,2010,9,2,3
+27,Iván Vázquez Rech,07/01/2010,Alevin,2010,7,1,3
+28,Fernando Aguirre Alemán,12/01/2010,Alevin,2010,12,1,4
+29,Marcos Álvarez García,11/02/2010,Alevin,2010,11,2,4
+30,Adrián Morales Díaz,29/01/2010,Alevin,2010,1,29,1
+31,Javier Alcázar Fernández,04/01/2010,Alevin,2010,4,1,2
+32,Martín Espuela Hurtado,06/02/2010,Alevin,2010,6,2,2
+33,Marcos Méndez Torres,20/04/2010,Alevin,2010,4,20,2
+34,Lucas Martín Oyanguren,14/01/2010,Alevin,2010,1,14,1
+35,Guillermo Martín López,16/01/2010,Alevin,2010,1,16,1
+36,Álvaro Barral García,03/03/2010,Alevin,2010,3,3,1
+37,Juan Carlos Lucena Díaz,22/01/2010,Alevin,2010,1,22,1
+38,Alfredo Padilla da Mota,27/03/2010,Alevin,2010,3,27,1
+39,Guillermo Azorín Portas,27/07/2010,Alevin,2010,7,27,3
+40,Íñigo Auguste Paolucci,07/01/2010,Alevin,2010,7,1,3
+41,Javier Useros Cabello,12/05/2010,Alevin,2010,12,5,4
+42,Alberto Ruizsantaquiteria Intillaque,09/02/2011,Alevin,2011,9,2,3
+43,Daniel Marian Moldovan,11/03/2010,Alevin,2010,11,3,4
+44,Beltrán Sánchez Fernández,28/01/2010,Alevin,2010,1,28,1
+45,Marcos Buitrago Aceña,29/04/2010,Alevin,2010,4,29,2
+46,Izan Gómez Fernández,05/01/2010,Alevin,2010,5,1,2

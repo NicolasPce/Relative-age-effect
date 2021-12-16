@@ -1,0 +1,433 @@
+,name,dob,year,month,day,trimestre,Deporte
+0,Angelina Lazarenko,13/04/1998,1998,4,13,2,Voley
+1,Svetlana Serbina,15/05/1996,1996,5,15,2,Voley
+2,Ekaterina Shkurikhina,17/06/1996,1996,6,17,2,Voley
+3,Kristina Kurnosova,17/06/1997,1997,6,17,2,Voley
+4,Ekaterina Novikova,07/12/1996,1996,7,12,3,Voley
+5,Victoria Zhurbenko,17/03/1996,1996,3,17,1,Voley
+6,Angelina Sperskaite,11/02/1997,1997,11,2,4,Voley
+7,Anastasiia Barchuk,09/02/1996,1996,9,2,3,Voley
+8,Anastasiia Cheremisina,14/01/1996,1996,1,14,1,Voley
+9,Anna Lazareva,31/01/1997,1997,1,31,1,Voley
+10,Tatiana Iurinskaia,25/01/1996,1996,1,25,1,Voley
+11,Sabina Gilfanova,14/02/1996,1996,2,14,1,Voley
+12,Drussyla Costa,01/07/1996,1996,1,7,1,Voley
+13,Lana ConceiÃ§Ã£o,08/12/1996,1996,8,12,3,Voley
+14,Ariane Pinto,27/01/1997,1997,1,27,1,Voley
+15,Laiza Ferreira,18/02/1996,1996,2,18,1,Voley
+16,Gabriela Candido Da Silva,22/05/1996,1996,5,22,2,Voley
+17,Gabriela Silva,05/03/1996,1996,5,3,2,Voley
+18,Karoline Tormena,21/03/1996,1996,3,21,1,Voley
+19,Lorenne Geraldo Teixeira,08/01/1996,1996,8,1,3,Voley
+20,Thais Oliveira,01/04/1996,1996,1,4,1,Voley
+21,Lais Vasques,12/02/1996,1996,12,2,4,Voley
+22,Lyara Medeiros,19/09/1996,1996,9,19,3,Voley
+23,Maiara Basso,03/01/1996,1996,3,1,1,Voley
+24,Nanami Hirose,12/05/1997,1997,12,5,4,Voley
+25,Misaki Shirai,30/07/1996,1996,7,30,3,Voley
+26,Yurika Kono,08/04/1996,1996,8,4,3,Voley
+27,Yuka Kitsui,15/01/1997,1997,1,15,1,Voley
+28,Haruka Maruo,15/08/1996,1996,8,15,3,Voley
+29,Haruka Kanamori,09/04/1996,1996,9,4,3,Voley
+30,Moeri Hanai,17/04/1997,1997,4,17,2,Voley
+31,Mizuki Yanagita,26/03/1996,1996,3,26,1,Voley
+32,Yuka Onodera,22/03/1997,1997,3,22,1,Voley
+33,Shino Nakata,15/07/1997,1997,7,15,3,Voley
+34,Kaori Mabashi,18/11/1996,1996,11,18,4,Voley
+35,Anna Koike,16/12/1996,1996,12,16,4,Voley
+36,Slavena Nikova,07/06/1996,1996,7,6,3,Voley
+37,Elitsa Barakova,11/03/1997,1997,11,3,4,Voley
+38,Polina Neykova,07/10/1998,1998,7,10,3,Voley
+39,Simona Nikolova,29/07/1997,1997,7,29,3,Voley
+40,Iveta Stanchulova,11/08/1997,1997,11,8,4,Voley
+41,Vangeliya Rachkovska,19/07/1997,1997,7,19,3,Voley
+42,Gergana Dimitrova,28/02/1996,1996,2,28,1,Voley
+43,Miroslava Paskova,16/02/1996,1996,2,16,1,Voley
+44,Kristiana Petrova,13/07/1997,1997,7,13,3,Voley
+45,Radostina Marinova,02/10/1998,1998,2,10,1,Voley
+46,Zhana Todorova,06/01/1997,1997,6,1,2,Voley
+47,Mirela Shahpazova,28/10/1997,1997,10,28,4,Voley
+48,Jovana Kocic,24/02/1998,1998,2,24,1,Voley
+49,Aleksandra Cirovic,30/09/1997,1997,9,30,3,Voley
+50,Sara Lozo,29/04/1997,1997,4,29,2,Voley
+51,Katarina Marinkovic,04/04/1996,1996,4,4,2,Voley
+52,Jelena Vignjevic,07/06/1996,1996,7,6,3,Voley
+53,Maja Aleksic,06/06/1997,1997,6,6,2,Voley
+54,Katarina Lazovic,12/09/1999,1999,12,9,4,Voley
+55,Bojana Milenkovic,06/03/1997,1997,6,3,2,Voley
+56,Aleksandra Tadic,24/12/1997,1997,12,24,4,Voley
+57,Sara Vucicevic,29/04/1997,1997,4,29,2,Voley
+58,Milena Dimic,31/08/1997,1997,8,31,3,Voley
+59,Marija Vujnovic,11/05/1997,1997,11,5,4,Voley
+60,Leslie AngÃ©lica Lopez Flores,13/02/1996,1996,2,13,1,Voley
+61,Maria Fernanda Rodriguez Gomez,23/06/1997,1997,6,23,2,Voley
+62,Janeth Alejandra Vargas Guevara,25/07/1997,1997,7,25,3,Voley
+63,Maria Elena Aguilera,08/06/1997,1997,8,6,3,Voley
+64,Kathya Paulina Garcia Chavez,06/03/1998,1998,6,3,2,Voley
+65,Miriam Arleth Bojorquez Ruiz,14/12/1997,1997,12,14,4,Voley
+66,Montserrat Castro Narvaez,12/12/1996,1996,12,12,4,Voley
+67,Fernanda BaÃ±uelos,19/03/1997,1997,3,19,1,Voley
+68,Kitzia Adonay Corrales Hernandez,12/02/1996,1996,12,2,4,Voley
+69,Karina Angelica Flores Gamez,16/08/1998,1998,8,16,3,Voley
+70,Mitzy Natalia Gonzalez Guzman,03/08/1997,1997,3,8,1,Voley
+71,Alondra Amaro Rodriguez,09/06/1998,1998,9,6,3,Voley
+72,Dalila Palma Rodriguez,18/11/1999,1999,11,18,4,Voley
+73,Laura Beatriz Suarez Hernandez,13/12/1998,1998,12,13,4,Voley
+74,Aidachi Attilah Aguero Aguilera,19/03/1999,1999,3,19,1,Voley
+75,Claudia Hernandez Aguila,09/01/1997,1997,9,1,3,Voley
+76,Diaris De La Caridad Perez Ramos,16/11/1998,1998,11,16,4,Voley
+77,Kitania Medina Torres,24/02/1999,1999,2,24,1,Voley
+78,Ailama Cese Montalvo,29/10/2000,2000,10,29,4,Voley
+79,Liset Herrera Blanco,06/12/1998,1998,6,12,2,Voley
+80,Anaila Martinez Chaviano,20/03/1999,1999,3,20,1,Voley
+81,Carmela Massip Mursuli,17/01/1998,1998,1,17,1,Voley
+82,Sonia Beatriz Romero Espinosa,02/08/1997,1997,2,8,1,Voley
+83,Anet Alfonso Benitez,26/06/1996,1996,6,26,2,Voley
+84,Haiping Sun,23/05/1996,1996,5,23,2,Voley
+85,Mingyuan Hu,17/05/1996,1996,5,17,2,Voley
+86,Zixuan Meng,18/11/1996,1996,11,18,4,Voley
+87,Ye Jin,01/03/1996,1996,1,3,1,Voley
+88,Qingqing Du,18/12/1996,1996,12,18,4,Voley
+89,Qian Zhang,20/02/1997,1997,2,20,1,Voley
+90,Jiayi Huang,16/08/1996,1996,8,16,3,Voley
+91,Wanqianbai Rong,01/01/1997,1997,1,1,1,Voley
+92,Yuanyuan Wang,14/07/1997,1997,7,14,3,Voley
+93,Xiangyu Gong,21/04/1997,1997,4,21,2,Voley
+94,Xinyi Zhou,17/03/1997,1997,3,17,1,Voley
+95,Yi Yang,19/03/1997,1997,3,19,1,Voley
+96,Mayar Mohamed,05/02/2000,2000,5,2,2,Voley
+97,Mai Moustafa,01/10/1996,1996,1,10,1,Voley
+98,Salma Mahmoud,04/02/1999,1999,4,2,2,Voley
+99,Nourallah Amin,25/11/2000,2000,11,25,4,Voley
+100,Malak Badawy,17/06/1996,1996,6,17,2,Voley
+101,Mariam Ebrahim,13/03/1997,1997,3,13,1,Voley
+102,Rahma Almohandes,09/11/1996,1996,9,11,3,Voley
+103,Yasmin Hussein,11/01/1997,1997,11,1,4,Voley
+104,Hend Farag,29/09/1997,1997,9,29,3,Voley
+105,Icel Nadim,19/02/1996,1996,2,19,1,Voley
+106,Jailan Tawfik,12/06/1997,1997,12,6,4,Voley
+107,Rania Ashmawy,20/02/1996,1996,2,20,1,Voley
+108,Diana De La PeÃ±a,07/06/1999,1999,7,6,3,Voley
+109,Nair Canessa,04/06/1997,1997,4,6,2,Voley
+110,Nicole Abreu Erquinigo,27/03/1999,1999,3,27,1,Voley
+111,Cristina Cuba,04/06/1996,1996,4,6,2,Voley
+112,Shiamara Almeida,19/02/1996,1996,2,19,1,Voley
+113,Maguilaura Frias,28/05/1997,1997,5,28,2,Voley
+114,Katherine Regalado,11/03/1998,1998,11,3,4,Voley
+115,Rosa Valiente,26/06/1996,1996,6,26,2,Voley
+116,Angela Leyva,22/11/1996,1996,11,22,4,Voley
+117,Yomira Villacorta,11/01/1996,1996,11,1,4,Voley
+118,Dayana Rojas,09/10/1997,1997,9,10,3,Voley
+119,Coraima Gomez,09/08/1996,1996,9,8,3,Voley
+120,Ilaria Bonvicini,28/02/1997,1997,2,28,1,Voley
+121,Carlotta Cambi,28/05/1996,1996,5,28,2,Voley
+122,Sofia D'odorico,06/01/1997,1997,6,1,2,Voley
+123,Alessia Orro,18/07/1998,1998,7,18,3,Voley
+124,Sara Bonifacio,03/07/1996,1996,3,7,1,Voley
+125,Anna Danesi,20/04/1996,1996,4,20,2,Voley
+126,Anastasia Guerra,15/10/1996,1996,10,15,4,Voley
+127,Chiara De Bortoli,28/07/1997,1997,7,28,3,Voley
+128,Paola Ogechi Egonu,18/12/1998,1998,12,18,4,Voley
+129,Beatrice Berti,12/01/1996,1996,12,1,4,Voley
+130,Anna Nicoletti,03/01/1996,1996,3,1,1,Voley
+131,Elisa Zanette,17/02/1996,1996,2,17,1,Voley
+132,Melis Yilmaz,28/06/1997,1997,6,28,2,Voley
+133,Cansu Ozbay,17/10/1996,1996,10,17,4,Voley
+134,Ayca Aykac,27/02/1996,1996,2,27,1,Voley
+135,Rida Erlalelitepe,22/07/1996,1996,7,22,3,Voley
+136,Ada Germen,24/06/1997,1997,6,24,2,Voley
+137,Zehra Gunes,07/07/1999,1999,7,7,3,Voley
+138,Humay Topaloglu,03/08/1996,1996,3,8,1,Voley
+139,Yagmur Mislina Kilic,30/03/1996,1996,3,30,1,Voley
+140,Cemre Janset Erkul,12/01/1997,1997,12,1,4,Voley
+141,Arelya Karasoy,14/12/1996,1996,12,14,4,Voley
+142,Arelya Karasoy,14/12/1996,1996,12,14,4,Voley
+143,Su Zent,25/03/1996,1996,3,25,1,Voley
+144,Angelina Lazarenko,13/04/1998,1998,4,13,2,Voley
+145,Svetlana Serbina,15/05/1996,1996,5,15,2,Voley
+146,Ekaterina Shkurikhina,17/06/1996,1996,6,17,2,Voley
+147,Kristina Kurnosova,17/06/1997,1997,6,17,2,Voley
+148,Ekaterina Novikova,07/12/1996,1996,7,12,3,Voley
+149,Victoria Zhurbenko,17/03/1996,1996,3,17,1,Voley
+150,Angelina Sperskaite,11/02/1997,1997,11,2,4,Voley
+151,Anastasiia Barchuk,09/02/1996,1996,9,2,3,Voley
+152,Anastasiia Cheremisina,14/01/1996,1996,1,14,1,Voley
+153,Anna Lazareva,31/01/1997,1997,1,31,1,Voley
+154,Tatiana Iurinskaia,25/01/1996,1996,1,25,1,Voley
+155,Sabina Gilfanova,14/02/1996,1996,2,14,1,Voley
+156,Drussyla Costa,01/07/1996,1996,1,7,1,Voley
+157,Lana ConceiÃ§Ã£o,08/12/1996,1996,8,12,3,Voley
+158,Ariane Pinto,27/01/1997,1997,1,27,1,Voley
+159,Laiza Ferreira,18/02/1996,1996,2,18,1,Voley
+160,Gabriela Candido Da Silva,22/05/1996,1996,5,22,2,Voley
+161,Gabriela Silva,05/03/1996,1996,5,3,2,Voley
+162,Karoline Tormena,21/03/1996,1996,3,21,1,Voley
+163,Lorenne Geraldo Teixeira,08/01/1996,1996,8,1,3,Voley
+164,Thais Oliveira,01/04/1996,1996,1,4,1,Voley
+165,Lais Vasques,12/02/1996,1996,12,2,4,Voley
+166,Lyara Medeiros,19/09/1996,1996,9,19,3,Voley
+167,Maiara Basso,03/01/1996,1996,3,1,1,Voley
+168,Nanami Hirose,12/05/1997,1997,12,5,4,Voley
+169,Misaki Shirai,30/07/1996,1996,7,30,3,Voley
+170,Yurika Kono,08/04/1996,1996,8,4,3,Voley
+171,Yuka Kitsui,15/01/1997,1997,1,15,1,Voley
+172,Haruka Maruo,15/08/1996,1996,8,15,3,Voley
+173,Haruka Kanamori,09/04/1996,1996,9,4,3,Voley
+174,Moeri Hanai,17/04/1997,1997,4,17,2,Voley
+175,Mizuki Yanagita,26/03/1996,1996,3,26,1,Voley
+176,Yuka Onodera,22/03/1997,1997,3,22,1,Voley
+177,Shino Nakata,15/07/1997,1997,7,15,3,Voley
+178,Kaori Mabashi,18/11/1996,1996,11,18,4,Voley
+179,Anna Koike,16/12/1996,1996,12,16,4,Voley
+180,Slavena Nikova,07/06/1996,1996,7,6,3,Voley
+181,Elitsa Barakova,11/03/1997,1997,11,3,4,Voley
+182,Polina Neykova,07/10/1998,1998,7,10,3,Voley
+183,Simona Nikolova,29/07/1997,1997,7,29,3,Voley
+184,Iveta Stanchulova,11/08/1997,1997,11,8,4,Voley
+185,Vangeliya Rachkovska,19/07/1997,1997,7,19,3,Voley
+186,Gergana Dimitrova,28/02/1996,1996,2,28,1,Voley
+187,Miroslava Paskova,16/02/1996,1996,2,16,1,Voley
+188,Kristiana Petrova,13/07/1997,1997,7,13,3,Voley
+189,Radostina Marinova,02/10/1998,1998,2,10,1,Voley
+190,Zhana Todorova,06/01/1997,1997,6,1,2,Voley
+191,Mirela Shahpazova,28/10/1997,1997,10,28,4,Voley
+192,Jovana Kocic,24/02/1998,1998,2,24,1,Voley
+193,Aleksandra Cirovic,30/09/1997,1997,9,30,3,Voley
+194,Sara Lozo,29/04/1997,1997,4,29,2,Voley
+195,Katarina Marinkovic,04/04/1996,1996,4,4,2,Voley
+196,Jelena Vignjevic,07/06/1996,1996,7,6,3,Voley
+197,Maja Aleksic,06/06/1997,1997,6,6,2,Voley
+198,Katarina Lazovic,12/09/1999,1999,12,9,4,Voley
+199,Bojana Milenkovic,06/03/1997,1997,6,3,2,Voley
+200,Aleksandra Tadic,24/12/1997,1997,12,24,4,Voley
+201,Sara Vucicevic,29/04/1997,1997,4,29,2,Voley
+202,Milena Dimic,31/08/1997,1997,8,31,3,Voley
+203,Marija Vujnovic,11/05/1997,1997,11,5,4,Voley
+204,Leslie AngÃ©lica Lopez Flores,13/02/1996,1996,2,13,1,Voley
+205,Maria Fernanda Rodriguez Gomez,23/06/1997,1997,6,23,2,Voley
+206,Janeth Alejandra Vargas Guevara,25/07/1997,1997,7,25,3,Voley
+207,Maria Elena Aguilera,08/06/1997,1997,8,6,3,Voley
+208,Kathya Paulina Garcia Chavez,06/03/1998,1998,6,3,2,Voley
+209,Miriam Arleth Bojorquez Ruiz,14/12/1997,1997,12,14,4,Voley
+210,Montserrat Castro Narvaez,12/12/1996,1996,12,12,4,Voley
+211,Fernanda BaÃ±uelos,19/03/1997,1997,3,19,1,Voley
+212,Kitzia Adonay Corrales Hernandez,12/02/1996,1996,12,2,4,Voley
+213,Karina Angelica Flores Gamez,16/08/1998,1998,8,16,3,Voley
+214,Mitzy Natalia Gonzalez Guzman,03/08/1997,1997,3,8,1,Voley
+215,Alondra Amaro Rodriguez,09/06/1998,1998,9,6,3,Voley
+216,Dalila Palma Rodriguez,18/11/1999,1999,11,18,4,Voley
+217,Laura Beatriz Suarez Hernandez,13/12/1998,1998,12,13,4,Voley
+218,Aidachi Attilah Aguero Aguilera,19/03/1999,1999,3,19,1,Voley
+219,Claudia Hernandez Aguila,09/01/1997,1997,9,1,3,Voley
+220,Diaris De La Caridad Perez Ramos,16/11/1998,1998,11,16,4,Voley
+221,Kitania Medina Torres,24/02/1999,1999,2,24,1,Voley
+222,Ailama Cese Montalvo,29/10/2000,2000,10,29,4,Voley
+223,Liset Herrera Blanco,06/12/1998,1998,6,12,2,Voley
+224,Anaila Martinez Chaviano,20/03/1999,1999,3,20,1,Voley
+225,Carmela Massip Mursuli,17/01/1998,1998,1,17,1,Voley
+226,Sonia Beatriz Romero Espinosa,02/08/1997,1997,2,8,1,Voley
+227,Anet Alfonso Benitez,26/06/1996,1996,6,26,2,Voley
+228,Haiping Sun,23/05/1996,1996,5,23,2,Voley
+229,Mingyuan Hu,17/05/1996,1996,5,17,2,Voley
+230,Zixuan Meng,18/11/1996,1996,11,18,4,Voley
+231,Ye Jin,01/03/1996,1996,1,3,1,Voley
+232,Qingqing Du,18/12/1996,1996,12,18,4,Voley
+233,Qian Zhang,20/02/1997,1997,2,20,1,Voley
+234,Jiayi Huang,16/08/1996,1996,8,16,3,Voley
+235,Wanqianbai Rong,01/01/1997,1997,1,1,1,Voley
+236,Yuanyuan Wang,14/07/1997,1997,7,14,3,Voley
+237,Xiangyu Gong,21/04/1997,1997,4,21,2,Voley
+238,Xinyi Zhou,17/03/1997,1997,3,17,1,Voley
+239,Yi Yang,19/03/1997,1997,3,19,1,Voley
+240,Mayar Mohamed,05/02/2000,2000,5,2,2,Voley
+241,Mai Moustafa,01/10/1996,1996,1,10,1,Voley
+242,Salma Mahmoud,04/02/1999,1999,4,2,2,Voley
+243,Nourallah Amin,25/11/2000,2000,11,25,4,Voley
+244,Malak Badawy,17/06/1996,1996,6,17,2,Voley
+245,Mariam Ebrahim,13/03/1997,1997,3,13,1,Voley
+246,Rahma Almohandes,09/11/1996,1996,9,11,3,Voley
+247,Yasmin Hussein,11/01/1997,1997,11,1,4,Voley
+248,Hend Farag,29/09/1997,1997,9,29,3,Voley
+249,Icel Nadim,19/02/1996,1996,2,19,1,Voley
+250,Jailan Tawfik,12/06/1997,1997,12,6,4,Voley
+251,Rania Ashmawy,20/02/1996,1996,2,20,1,Voley
+252,Diana De La PeÃ±a,07/06/1999,1999,7,6,3,Voley
+253,Nair Canessa,04/06/1997,1997,4,6,2,Voley
+254,Nicole Abreu Erquinigo,27/03/1999,1999,3,27,1,Voley
+255,Cristina Cuba,04/06/1996,1996,4,6,2,Voley
+256,Shiamara Almeida,19/02/1996,1996,2,19,1,Voley
+257,Maguilaura Frias,28/05/1997,1997,5,28,2,Voley
+258,Katherine Regalado,11/03/1998,1998,11,3,4,Voley
+259,Rosa Valiente,26/06/1996,1996,6,26,2,Voley
+260,Angela Leyva,22/11/1996,1996,11,22,4,Voley
+261,Yomira Villacorta,11/01/1996,1996,11,1,4,Voley
+262,Dayana Rojas,09/10/1997,1997,9,10,3,Voley
+263,Coraima Gomez,09/08/1996,1996,9,8,3,Voley
+264,Ilaria Bonvicini,28/02/1997,1997,2,28,1,Voley
+265,Carlotta Cambi,28/05/1996,1996,5,28,2,Voley
+266,Sofia D'odorico,06/01/1997,1997,6,1,2,Voley
+267,Alessia Orro,18/07/1998,1998,7,18,3,Voley
+268,Sara Bonifacio,03/07/1996,1996,3,7,1,Voley
+269,Anna Danesi,20/04/1996,1996,4,20,2,Voley
+270,Anastasia Guerra,15/10/1996,1996,10,15,4,Voley
+271,Chiara De Bortoli,28/07/1997,1997,7,28,3,Voley
+272,Paola Ogechi Egonu,18/12/1998,1998,12,18,4,Voley
+273,Beatrice Berti,12/01/1996,1996,12,1,4,Voley
+274,Anna Nicoletti,03/01/1996,1996,3,1,1,Voley
+275,Elisa Zanette,17/02/1996,1996,2,17,1,Voley
+276,Melis Yilmaz,28/06/1997,1997,6,28,2,Voley
+277,Cansu Ozbay,17/10/1996,1996,10,17,4,Voley
+278,Ayca Aykac,27/02/1996,1996,2,27,1,Voley
+279,Rida Erlalelitepe,22/07/1996,1996,7,22,3,Voley
+280,Ada Germen,24/06/1997,1997,6,24,2,Voley
+281,Zehra Gunes,07/07/1999,1999,7,7,3,Voley
+282,Humay Topaloglu,03/08/1996,1996,3,8,1,Voley
+283,Yagmur Mislina Kilic,30/03/1996,1996,3,30,1,Voley
+284,Cemre Janset Erkul,12/01/1997,1997,12,1,4,Voley
+285,Arelya Karasoy,14/12/1996,1996,12,14,4,Voley
+286,Arelya Karasoy,14/12/1996,1996,12,14,4,Voley
+287,Su Zent,25/03/1996,1996,3,25,1,Voley
+288,Angelina Lazarenko,13/04/1998,1998,4,13,2,Voley
+289,Svetlana Serbina,15/05/1996,1996,5,15,2,Voley
+290,Ekaterina Shkurikhina,17/06/1996,1996,6,17,2,Voley
+291,Kristina Kurnosova,17/06/1997,1997,6,17,2,Voley
+292,Ekaterina Novikova,07/12/1996,1996,7,12,3,Voley
+293,Victoria Zhurbenko,17/03/1996,1996,3,17,1,Voley
+294,Angelina Sperskaite,11/02/1997,1997,11,2,4,Voley
+295,Anastasiia Barchuk,09/02/1996,1996,9,2,3,Voley
+296,Anastasiia Cheremisina,14/01/1996,1996,1,14,1,Voley
+297,Anna Lazareva,31/01/1997,1997,1,31,1,Voley
+298,Tatiana Iurinskaia,25/01/1996,1996,1,25,1,Voley
+299,Sabina Gilfanova,14/02/1996,1996,2,14,1,Voley
+300,Drussyla Costa,01/07/1996,1996,1,7,1,Voley
+301,Lana ConceiÃ§Ã£o,08/12/1996,1996,8,12,3,Voley
+302,Ariane Pinto,27/01/1997,1997,1,27,1,Voley
+303,Laiza Ferreira,18/02/1996,1996,2,18,1,Voley
+304,Gabriela Candido Da Silva,22/05/1996,1996,5,22,2,Voley
+305,Gabriela Silva,05/03/1996,1996,5,3,2,Voley
+306,Karoline Tormena,21/03/1996,1996,3,21,1,Voley
+307,Lorenne Geraldo Teixeira,08/01/1996,1996,8,1,3,Voley
+308,Thais Oliveira,01/04/1996,1996,1,4,1,Voley
+309,Lais Vasques,12/02/1996,1996,12,2,4,Voley
+310,Lyara Medeiros,19/09/1996,1996,9,19,3,Voley
+311,Maiara Basso,03/01/1996,1996,3,1,1,Voley
+312,Nanami Hirose,12/05/1997,1997,12,5,4,Voley
+313,Misaki Shirai,30/07/1996,1996,7,30,3,Voley
+314,Yurika Kono,08/04/1996,1996,8,4,3,Voley
+315,Yuka Kitsui,15/01/1997,1997,1,15,1,Voley
+316,Haruka Maruo,15/08/1996,1996,8,15,3,Voley
+317,Haruka Kanamori,09/04/1996,1996,9,4,3,Voley
+318,Moeri Hanai,17/04/1997,1997,4,17,2,Voley
+319,Mizuki Yanagita,26/03/1996,1996,3,26,1,Voley
+320,Yuka Onodera,22/03/1997,1997,3,22,1,Voley
+321,Shino Nakata,15/07/1997,1997,7,15,3,Voley
+322,Kaori Mabashi,18/11/1996,1996,11,18,4,Voley
+323,Anna Koike,16/12/1996,1996,12,16,4,Voley
+324,Slavena Nikova,07/06/1996,1996,7,6,3,Voley
+325,Elitsa Barakova,11/03/1997,1997,11,3,4,Voley
+326,Polina Neykova,07/10/1998,1998,7,10,3,Voley
+327,Simona Nikolova,29/07/1997,1997,7,29,3,Voley
+328,Iveta Stanchulova,11/08/1997,1997,11,8,4,Voley
+329,Vangeliya Rachkovska,19/07/1997,1997,7,19,3,Voley
+330,Gergana Dimitrova,28/02/1996,1996,2,28,1,Voley
+331,Miroslava Paskova,16/02/1996,1996,2,16,1,Voley
+332,Kristiana Petrova,13/07/1997,1997,7,13,3,Voley
+333,Radostina Marinova,02/10/1998,1998,2,10,1,Voley
+334,Zhana Todorova,06/01/1997,1997,6,1,2,Voley
+335,Mirela Shahpazova,28/10/1997,1997,10,28,4,Voley
+336,Jovana Kocic,24/02/1998,1998,2,24,1,Voley
+337,Aleksandra Cirovic,30/09/1997,1997,9,30,3,Voley
+338,Sara Lozo,29/04/1997,1997,4,29,2,Voley
+339,Katarina Marinkovic,04/04/1996,1996,4,4,2,Voley
+340,Jelena Vignjevic,07/06/1996,1996,7,6,3,Voley
+341,Maja Aleksic,06/06/1997,1997,6,6,2,Voley
+342,Katarina Lazovic,12/09/1999,1999,12,9,4,Voley
+343,Bojana Milenkovic,06/03/1997,1997,6,3,2,Voley
+344,Aleksandra Tadic,24/12/1997,1997,12,24,4,Voley
+345,Sara Vucicevic,29/04/1997,1997,4,29,2,Voley
+346,Milena Dimic,31/08/1997,1997,8,31,3,Voley
+347,Marija Vujnovic,11/05/1997,1997,11,5,4,Voley
+348,Leslie AngÃ©lica Lopez Flores,13/02/1996,1996,2,13,1,Voley
+349,Maria Fernanda Rodriguez Gomez,23/06/1997,1997,6,23,2,Voley
+350,Janeth Alejandra Vargas Guevara,25/07/1997,1997,7,25,3,Voley
+351,Maria Elena Aguilera,08/06/1997,1997,8,6,3,Voley
+352,Kathya Paulina Garcia Chavez,06/03/1998,1998,6,3,2,Voley
+353,Miriam Arleth Bojorquez Ruiz,14/12/1997,1997,12,14,4,Voley
+354,Montserrat Castro Narvaez,12/12/1996,1996,12,12,4,Voley
+355,Fernanda BaÃ±uelos,19/03/1997,1997,3,19,1,Voley
+356,Kitzia Adonay Corrales Hernandez,12/02/1996,1996,12,2,4,Voley
+357,Karina Angelica Flores Gamez,16/08/1998,1998,8,16,3,Voley
+358,Mitzy Natalia Gonzalez Guzman,03/08/1997,1997,3,8,1,Voley
+359,Alondra Amaro Rodriguez,09/06/1998,1998,9,6,3,Voley
+360,Dalila Palma Rodriguez,18/11/1999,1999,11,18,4,Voley
+361,Laura Beatriz Suarez Hernandez,13/12/1998,1998,12,13,4,Voley
+362,Aidachi Attilah Aguero Aguilera,19/03/1999,1999,3,19,1,Voley
+363,Claudia Hernandez Aguila,09/01/1997,1997,9,1,3,Voley
+364,Diaris De La Caridad Perez Ramos,16/11/1998,1998,11,16,4,Voley
+365,Kitania Medina Torres,24/02/1999,1999,2,24,1,Voley
+366,Ailama Cese Montalvo,29/10/2000,2000,10,29,4,Voley
+367,Liset Herrera Blanco,06/12/1998,1998,6,12,2,Voley
+368,Anaila Martinez Chaviano,20/03/1999,1999,3,20,1,Voley
+369,Carmela Massip Mursuli,17/01/1998,1998,1,17,1,Voley
+370,Sonia Beatriz Romero Espinosa,02/08/1997,1997,2,8,1,Voley
+371,Anet Alfonso Benitez,26/06/1996,1996,6,26,2,Voley
+372,Haiping Sun,23/05/1996,1996,5,23,2,Voley
+373,Mingyuan Hu,17/05/1996,1996,5,17,2,Voley
+374,Zixuan Meng,18/11/1996,1996,11,18,4,Voley
+375,Ye Jin,01/03/1996,1996,1,3,1,Voley
+376,Qingqing Du,18/12/1996,1996,12,18,4,Voley
+377,Qian Zhang,20/02/1997,1997,2,20,1,Voley
+378,Jiayi Huang,16/08/1996,1996,8,16,3,Voley
+379,Wanqianbai Rong,01/01/1997,1997,1,1,1,Voley
+380,Yuanyuan Wang,14/07/1997,1997,7,14,3,Voley
+381,Xiangyu Gong,21/04/1997,1997,4,21,2,Voley
+382,Xinyi Zhou,17/03/1997,1997,3,17,1,Voley
+383,Yi Yang,19/03/1997,1997,3,19,1,Voley
+384,Mayar Mohamed,05/02/2000,2000,5,2,2,Voley
+385,Mai Moustafa,01/10/1996,1996,1,10,1,Voley
+386,Salma Mahmoud,04/02/1999,1999,4,2,2,Voley
+387,Nourallah Amin,25/11/2000,2000,11,25,4,Voley
+388,Malak Badawy,17/06/1996,1996,6,17,2,Voley
+389,Mariam Ebrahim,13/03/1997,1997,3,13,1,Voley
+390,Rahma Almohandes,09/11/1996,1996,9,11,3,Voley
+391,Yasmin Hussein,11/01/1997,1997,11,1,4,Voley
+392,Hend Farag,29/09/1997,1997,9,29,3,Voley
+393,Icel Nadim,19/02/1996,1996,2,19,1,Voley
+394,Jailan Tawfik,12/06/1997,1997,12,6,4,Voley
+395,Rania Ashmawy,20/02/1996,1996,2,20,1,Voley
+396,Diana De La PeÃ±a,07/06/1999,1999,7,6,3,Voley
+397,Nair Canessa,04/06/1997,1997,4,6,2,Voley
+398,Nicole Abreu Erquinigo,27/03/1999,1999,3,27,1,Voley
+399,Cristina Cuba,04/06/1996,1996,4,6,2,Voley
+400,Shiamara Almeida,19/02/1996,1996,2,19,1,Voley
+401,Maguilaura Frias,28/05/1997,1997,5,28,2,Voley
+402,Katherine Regalado,11/03/1998,1998,11,3,4,Voley
+403,Rosa Valiente,26/06/1996,1996,6,26,2,Voley
+404,Angela Leyva,22/11/1996,1996,11,22,4,Voley
+405,Yomira Villacorta,11/01/1996,1996,11,1,4,Voley
+406,Dayana Rojas,09/10/1997,1997,9,10,3,Voley
+407,Coraima Gomez,09/08/1996,1996,9,8,3,Voley
+408,Ilaria Bonvicini,28/02/1997,1997,2,28,1,Voley
+409,Carlotta Cambi,28/05/1996,1996,5,28,2,Voley
+410,Sofia D'odorico,06/01/1997,1997,6,1,2,Voley
+411,Alessia Orro,18/07/1998,1998,7,18,3,Voley
+412,Sara Bonifacio,03/07/1996,1996,3,7,1,Voley
+413,Anna Danesi,20/04/1996,1996,4,20,2,Voley
+414,Anastasia Guerra,15/10/1996,1996,10,15,4,Voley
+415,Chiara De Bortoli,28/07/1997,1997,7,28,3,Voley
+416,Paola Ogechi Egonu,18/12/1998,1998,12,18,4,Voley
+417,Beatrice Berti,12/01/1996,1996,12,1,4,Voley
+418,Anna Nicoletti,03/01/1996,1996,3,1,1,Voley
+419,Elisa Zanette,17/02/1996,1996,2,17,1,Voley
+420,Melis Yilmaz,28/06/1997,1997,6,28,2,Voley
+421,Cansu Ozbay,17/10/1996,1996,10,17,4,Voley
+422,Ayca Aykac,27/02/1996,1996,2,27,1,Voley
+423,Rida Erlalelitepe,22/07/1996,1996,7,22,3,Voley
+424,Ada Germen,24/06/1997,1997,6,24,2,Voley
+425,Zehra Gunes,07/07/1999,1999,7,7,3,Voley
+426,Humay Topaloglu,03/08/1996,1996,3,8,1,Voley
+427,Yagmur Mislina Kilic,30/03/1996,1996,3,30,1,Voley
+428,Cemre Janset Erkul,12/01/1997,1997,12,1,4,Voley
+429,Arelya Karasoy,14/12/1996,1996,12,14,4,Voley
+430,Arelya Karasoy,14/12/1996,1996,12,14,4,Voley
+431,Su Zent,25/03/1996,1996,3,25,1,Voley

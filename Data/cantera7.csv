@@ -1,0 +1,200 @@
+,Unnamed: 0,Nombre,Nacimiento,Categoria,year,month,day,trimestre,Equipo
+0,0,Samuel AlcÃ¡zar MartÃ­n,08/07/2015,Prebenjamin,2015,8,7,3,RMD
+1,1,Alejandro BellvÃ­s AlcÃ¡zar,08/10/2015,Prebenjamin,2015,8,10,3,RMD
+2,2,Diego Alonso Guerrero,02/01/2015,Prebenjamin,2015,2,1,1,RMD
+3,3,Fernando Torres de Lago,28/02/2015,Prebenjamin,2015,2,28,1,RMD
+4,4,Hugo Herrero Hierrezuelo,28/01/2015,Prebenjamin,2015,1,28,1,RMD
+5,5,Liam RomÃ¡n OrdejÃ³n,24/02/2015,Prebenjamin,2015,2,24,1,RMD
+6,6,Alejandro Alves Fernandes,17/02/2015,Prebenjamin,2015,2,17,1,RMD
+7,7,JosÃ© Antonio del Pino LÃ³pez,21/02/2015,Prebenjamin,2015,2,21,1,RMD
+8,8,Manuel Salvador LÃ³pez Laruelo,13/04/2015,Prebenjamin,2015,4,13,2,RMD
+9,9,Hugo GutiÃ©rrez GarcÃ­a,08/04/2014,Prebenjamin,2014,8,4,3,RMD
+10,10,AdriÃ¡n Borislavov Asenov,26/03/2014,Prebenjamin,2014,3,26,1,RMD
+11,11,AdriÃ¡n SÃ¡nchez Morales,24/02/2014,Prebenjamin,2014,2,24,1,RMD
+12,12,Daniel Havrylyak,07/03/2014,Prebenjamin,2014,7,3,3,RMD
+13,13,Fawaz Zanzi Awudu,16/03/2014,Prebenjamin,2014,3,16,1,RMD
+14,14,DarÃ­o VÃ©lez CortÃ©s,01/07/2014,Prebenjamin,2014,1,7,1,RMD
+15,15,Joel Mateo Canorea,25/01/2014,Prebenjamin,2014,1,25,1,RMD
+16,16,Hugo Grande Asensio,06/01/2014,Prebenjamin,2014,6,1,2,RMD
+17,17,MatÃ­as Iglesias VillaseÃ±or,24/02/2014,Prebenjamin,2014,2,24,1,RMD
+18,18,Ethan Balboa RodrÃ­guez,06/04/2014,Prebenjamin,2014,6,4,2,RMD
+19,19,Hugo Mateo Canorea,25/01/2014,Prebenjamin,2014,1,25,1,RMD
+20,20,Francisco Javier Albes Marina,07/02/2014,Prebenjamin,2014,7,2,3,RMD
+21,0,Vicente Colomo Estebaranz,31/03/2013,Benjamin,2013,3,31,1,RMD
+22,1,Rafael Ruiz GÃ³mez,29/04/2013,Benjamin,2013,4,29,2,RMD
+23,2,Ãlvaro Montoro Briones,08/04/2013,Benjamin,2013,8,4,3,RMD
+24,3,Hugo FernÃ¡ndez MartÃ­n,07/05/2013,Benjamin,2013,7,5,3,RMD
+25,4,Izan GarcÃ­a GirÃ³n,04/05/2013,Benjamin,2013,4,5,2,RMD
+26,5,Alonso MacÃ­as Parra,24/02/2013,Benjamin,2013,2,24,1,RMD
+27,6,David Marcos Tejado,29/03/2013,Benjamin,2013,3,29,1,RMD
+28,7,Diego Laso Vinuesa,10/05/2013,Benjamin,2013,10,5,4,RMD
+29,8,Gonzalo Romeral Cuello,11/01/2013,Benjamin,2013,11,1,4,RMD
+30,9,Carlos BellvÃ­s AlcÃ¡zar,29/03/2013,Benjamin,2013,3,29,1,RMD
+31,10,Lucas GÃ³mez SaldaÃ±a,09/01/2012,Benjamin,2012,9,1,3,RMD
+32,11,Guillermo Cubero FernÃ¡ndez,14/01/2012,Benjamin,2012,1,14,1,RMD
+33,12,RubÃ©n Mallo Ãlices,04/01/2012,Benjamin,2012,4,1,2,RMD
+34,13,Daniel DÃ­az Romero,13/03/2012,Benjamin,2012,3,13,1,RMD
+35,14,VÃ­ctor MartÃ­n MartÃ­n,25/01/2012,Benjamin,2012,1,25,1,RMD
+36,15,Pablo GarcÃ­a LÃ³pez,01/03/2012,Benjamin,2012,1,3,1,RMD
+37,16,Pablo MartÃ­nez FernÃ¡ndez,10/01/2012,Benjamin,2012,10,1,4,RMD
+38,17,Unai Gonzalo Luque,24/01/2012,Benjamin,2012,1,24,1,RMD
+39,18,Daniel Jurado PatiÃ±o,01/01/2012,Benjamin,2012,1,1,1,RMD
+40,19,RubÃ©n MartÃ­n MartÃ­n,25/01/2012,Benjamin,2012,1,25,1,RMD
+41,20,Lil Yeiniel MartÃ­nez RomÃ¡n,01/04/2012,Benjamin,2012,1,4,1,RMD
+42,21,Olivier Telus Ovalle,23/04/2012,Benjamin,2012,4,23,2,RMD
+43,22,Ãlex MuÃ±oz Zayas,20/11/2012,Benjamin,2012,11,20,4,RMD
+44,0,Pablo Alvarado GarcÃ­a,07/07/2011,Alevin,2011,7,7,3,RMD
+45,1,Leo Ãlvarez Campoverde,16/01/2011,Alevin,2011,1,16,1,RMD
+46,2,AdriÃ¡n Serrano Cantero,16/02/2011,Alevin,2011,2,16,1,RMD
+47,3,Carlos Palazuelos Carnicero,14/03/2011,Alevin,2011,3,14,1,RMD
+48,4,Sergio de Diego Lara,18/01/2011,Alevin,2011,1,18,1,RMD
+49,5,PaÃºl Riesgo Madariaga,03/03/2011,Alevin,2011,3,3,1,RMD
+50,6,BeltrÃ¡n GuillÃ©n PÃ©rez de Tudela,27/07/2011,Alevin,2011,7,27,3,RMD
+51,7,Julio Alonso SÃ¡nchez,15/03/2011,Alevin,2011,3,15,1,RMD
+52,8,Marcos Carrasco CristÃ³bal,29/01/2011,Alevin,2011,1,29,1,RMD
+53,9,RubÃ©n Pulido Jimeno,26/07/2011,Alevin,2011,7,26,3,RMD
+54,10,Pablo MÃ­nguez Castro,03/03/2011,Alevin,2011,3,3,1,RMD
+55,11,Enzo Sanz Gracia,05/08/2011,Alevin,2011,5,8,2,RMD
+56,12,Joan Steven Asencio Obando,04/02/2011,Alevin,2011,4,2,2,RMD
+57,13,Alberto Romero Sanz,16/09/2011,Alevin,2011,9,16,3,RMD
+58,14,MartÃ­n Moral GÃ³mez,09/02/2011,Alevin,2011,9,2,3,RMD
+59,15,JesÃºs Navarro SÃ¡nchez,19/08/2011,Alevin,2011,8,19,3,RMD
+60,16,Sergio  Valverde MartÃ­n,28/05/2011,Alevin,2011,5,28,2,RMD
+61,17,RubÃ©n Lebrero PÃ©rez,06/05/2011,Alevin,2011,6,5,2,RMD
+62,18,Ignacio Oliver Rey,03/08/2011,Alevin,2011,3,8,1,RMD
+63,19,Hugo FernÃ¡ndez Gallardo,09/02/2011,Alevin,2011,9,2,3,RMD
+64,20,Hugo Lobato GarcÃ­a,28/05/2011,Alevin,2011,5,28,2,RMD
+65,21,Pablo Asencio Ariza,09/02/2011,Alevin,2011,9,2,3,RMD
+66,22,Alejandro Valenzuela Alonso,18/02/2011,Alevin,2011,2,18,1,RMD
+67,23,NicolÃ¡s Trigo Barrios,05/02/2011,Alevin,2011,5,2,2,RMD
+68,24,Adam Essid GarcÃ­a,25/02/2011,Alevin,2011,2,25,1,RMD
+69,25,Dennis AdriÃ¡n Ene,04/01/2010,Alevin,2010,4,1,2,RMD
+70,26,NicolÃ¡s Budach Vicente,09/02/2010,Alevin,2010,9,2,3,RMD
+71,27,IvÃ¡n VÃ¡zquez Rech,07/01/2010,Alevin,2010,7,1,3,RMD
+72,28,Fernando Aguirre AlemÃ¡n,12/01/2010,Alevin,2010,12,1,4,RMD
+73,29,Marcos Ãlvarez GarcÃ­a,11/02/2010,Alevin,2010,11,2,4,RMD
+74,30,AdriÃ¡n Morales DÃ­az,29/01/2010,Alevin,2010,1,29,1,RMD
+75,31,Javier AlcÃ¡zar FernÃ¡ndez,04/01/2010,Alevin,2010,4,1,2,RMD
+76,32,MartÃ­n Espuela Hurtado,06/02/2010,Alevin,2010,6,2,2,RMD
+77,33,Marcos MÃ©ndez Torres,20/04/2010,Alevin,2010,4,20,2,RMD
+78,34,Lucas MartÃ­n Oyanguren,14/01/2010,Alevin,2010,1,14,1,RMD
+79,35,Guillermo MartÃ­n LÃ³pez,16/01/2010,Alevin,2010,1,16,1,RMD
+80,36,Ãlvaro Barral GarcÃ­a,03/03/2010,Alevin,2010,3,3,1,RMD
+81,37,Juan Carlos Lucena DÃ­az,22/01/2010,Alevin,2010,1,22,1,RMD
+82,38,Alfredo Padilla da Mota,27/03/2010,Alevin,2010,3,27,1,RMD
+83,39,Guillermo AzorÃ­n Portas,27/07/2010,Alevin,2010,7,27,3,RMD
+84,40,ÃÃ±igo Auguste Paolucci,07/01/2010,Alevin,2010,7,1,3,RMD
+85,41,Javier Useros Cabello,12/05/2010,Alevin,2010,12,5,4,RMD
+86,42,Alberto Ruizsantaquiteria Intillaque,09/02/2011,Alevin,2011,9,2,3,RMD
+87,43,Daniel Marian Moldovan,11/03/2010,Alevin,2010,11,3,4,RMD
+88,44,BeltrÃ¡n SÃ¡nchez FernÃ¡ndez,28/01/2010,Alevin,2010,1,28,1,RMD
+89,45,Marcos Buitrago AceÃ±a,29/04/2010,Alevin,2010,4,29,2,RMD
+90,46,Izan GÃ³mez FernÃ¡ndez,05/01/2010,Alevin,2010,5,1,2,RMD
+0,0,Roc Baeza Utrera,06/02/2013,Prebenjamin,2013,6,2,2,FCB
+1,1,Jan FernÃ¡ndez Pi,02/07/2012,Prebenjamin,2012,2,7,1,FCB
+2,2,Kossay Chakkour Chanouki,29/01/2013,Prebenjamin,2013,1,29,1,FCB
+3,3,Sergi Lara Parra,19/02/2013,Prebenjamin,2013,2,19,1,FCB
+4,4,Frank DÃ­dac SÃ¡nchez Jara,01/02/2013,Prebenjamin,2013,1,2,1,FCB
+5,5,Joel GimÃ©nez Generelo,01/01/2013,Prebenjamin,2013,1,1,1,FCB
+6,6,Leo MartÃ­nez GÃ³mez,17/02/2013,Prebenjamin,2013,2,17,1,FCB
+7,7,Yerai Valencia Micolta,18/01/2013,Prebenjamin,2013,1,18,1,FCB
+8,8,HÃ©ctor Santiago Toro,06/01/2013,Prebenjamin,2013,6,1,2,FCB
+9,9,Ylias El Azouzi Al Garib,20/08/2013,Prebenjamin,2013,8,20,3,FCB
+10,10,Daniel HernÃ¡ndez LÃ³pez,03/05/2013,Prebenjamin,2013,3,5,1,FCB
+11,11,Abdoulatif Djitte,16/01/2013,Prebenjamin,2013,1,16,1,FCB
+12,0,Joel Garcia LÃ³pez,16/01/2012,Benjamin,2012,1,16,1,FCB
+13,1,Biel ChacÃ³n Hurtado,09/02/2012,Benjamin,2012,9,2,3,FCB
+14,2,Ybraham Garcia Bazurto,13/07/2012,Benjamin,2012,7,13,3,FCB
+15,3,AdriÃ  Aguilera PÃ©rez,19/04/2012,Benjamin,2012,4,19,2,FCB
+16,4,Enzo PÃ©rez Carrasco,16/02/2012,Benjamin,2012,2,16,1,FCB
+17,5,Hugo TomÃ¡s Vendrell,03/01/2012,Benjamin,2012,3,1,1,FCB
+18,6,Nil Salvador Restrepo,19/05/2012,Benjamin,2012,5,19,2,FCB
+19,7,Joan Chaparro Barrero,23/01/2012,Benjamin,2012,1,23,1,FCB
+20,8,Pol Porta Casals,29/01/2012,Benjamin,2012,1,29,1,FCB
+21,9,Pol Jou BertolÃ­n,10/01/2012,Benjamin,2012,10,1,4,FCB
+22,10,Mohamed Akhomach Chakkour,12/03/2012,Benjamin,2012,12,3,4,FCB
+23,11,Gerard Majoral Esparrica,26/07/2012,Benjamin,2012,7,26,3,FCB
+24,12,Mauro del Vecchio Fugueras,07/08/2011,Benjamin,2011,7,8,3,FCB
+25,13,Yeray Gutierrez MuÃ±oz,13/03/2012,Benjamin,2012,3,13,1,FCB
+26,14,Marc Garcia Borrego,27/01/2012,Benjamin,2012,1,27,1,FCB
+27,15,Alan Guerra Garcia,12/02/2012,Benjamin,2012,12,2,4,FCB
+28,16,John Ovie Adams Silva,02/03/2012,Benjamin,2012,2,3,1,FCB
+29,17,Izan MÃ¡rquez AlarcÃ³n,15/01/2012,Benjamin,2012,1,15,1,FCB
+30,18,Aitor MartÃ­nez Esteban,23/02/2012,Benjamin,2012,2,23,1,FCB
+31,19,Dereck Puig LÃ³pez,02/03/2012,Benjamin,2012,2,3,1,FCB
+32,20,Agus Marcet Huete,08/02/2012,Benjamin,2012,8,2,3,FCB
+33,21,Gerard Mateo Gil,06/04/2012,Benjamin,2012,6,4,2,FCB
+34,22,Fode Diallo,06/03/2012,Benjamin,2012,6,3,2,FCB
+35,23,Roger Vidal Torrents,11/04/2011,Benjamin,2011,11,4,4,FCB
+36,24,Alexander Rafael Cimoscov,01/04/2011,Benjamin,2011,1,4,1,FCB
+37,25,Iker Nsang Chaves,16/03/2011,Benjamin,2011,3,16,1,FCB
+38,26,Bru Mateu Dinares,12/01/2011,Benjamin,2011,12,1,4,FCB
+39,27,Unax HernÃ¡ndez Lorenzo,14/03/2011,Benjamin,2011,3,14,1,FCB
+40,28,Ethien Garrido Parra,25/05/2011,Benjamin,2011,5,25,2,FCB
+41,29,Joan Segura Caliz,30/05/2011,Benjamin,2011,5,30,2,FCB
+42,30,Johan Oriol Leiva Leiva,20/06/2011,Benjamin,2011,6,20,2,FCB
+43,31,Dragos Bivol,30/11/2011,Benjamin,2011,11,30,4,FCB
+44,32,MarÃ§al PerellÃ³ Ponce,25/02/2011,Benjamin,2011,2,25,1,FCB
+45,33,Mamadou Keita,18/04/2011,Benjamin,2011,4,18,2,FCB
+46,34,Marvin Chukwubunken Duru,03/11/2011,Benjamin,2011,3,11,1,FCB
+47,35,Aitor Rivera Leal,01/04/2011,Benjamin,2011,1,4,1,FCB
+48,36,Fran Vivas Liu,27/04/2011,Benjamin,2011,4,27,2,FCB
+49,37,Piero Ferrari Liarte,30/03/2011,Benjamin,2011,3,30,1,FCB
+50,38,AdriÃ  PozÃ³n Cano,23/02/2011,Benjamin,2011,2,23,1,FCB
+51,39,JosÃ© BasagaÃ±a Osorio,03/02/2011,Benjamin,2011,3,2,1,FCB
+52,40,Lucas Bernal Espinar ,30/01/2011,Benjamin,2011,1,30,1,FCB
+53,41,Carlos Julian Potes Arias,13/03/2011,Benjamin,2011,3,13,1,FCB
+54,42,Quim Carcel Vidal,05/03/2011,Benjamin,2011,5,3,2,FCB
+55,43,Victor Coma Coll,01/05/2011,Benjamin,2011,1,5,1,FCB
+56,44,Darwin Guillermo Zamora Ronquillo,19/01/2011,Benjamin,2011,1,19,1,FCB
+57,45,Divine Ikenna Ejiofor John,01/04/2011,Benjamin,2011,1,4,1,FCB
+58,0,Pablo PeÃ±a LÃ³pez,25/03/2010,Alevin,2010,3,25,1,FCB
+59,1,Hugo Izquierdo Requero,13/03/2010,Alevin,2010,3,13,1,FCB
+60,2,Oriol Olivier Mustaros,24/03/2010,Alevin,2010,3,24,1,FCB
+61,3,Marc MartÃ­nez Prim,13/05/2010,Alevin,2010,5,13,2,FCB
+62,4,Luca PÃ©rez Carrasco,10/01/2010,Alevin,2010,10,1,4,FCB
+63,5,Ibrahima TourÃ© KantÃ©,27/05/2010,Alevin,2010,5,27,2,FCB
+64,6,Dani Gallego Navarro,27/05/2010,Alevin,2010,5,27,2,FCB
+65,7,Radion Kalashnykov,05/08/2010,Alevin,2010,5,8,2,FCB
+66,8,Oriol MoratÃ³ Jordana,06/01/2010,Alevin,2010,6,1,2,FCB
+67,9,Ebrima Tunkara,10/03/2010,Alevin,2010,10,3,4,FCB
+68,10,Ãlex Pera MartÃ­nez,24/04/2010,Alevin,2010,4,24,2,FCB
+69,11,Mimoun Azzougouagh ,22/02/2010,Alevin,2010,2,22,1,FCB
+70,12,Aitor Cazorla MartÃ­n,05/11/2010,Alevin,2010,5,11,2,FCB
+71,13,Lorcan Junca Smyth,19/05/2010,Alevin,2010,5,19,2,FCB
+72,14,Guiu XuclÃ  MartÃ­nez,17/01/2010,Alevin,2010,1,17,1,FCB
+73,15,Aniol Comajuncosas Vila,20/03/2010,Alevin,2010,3,20,1,FCB
+74,16,Guillem Molina Terol,24/01/2010,Alevin,2010,1,24,1,FCB
+75,17,GuifrÃ© Valdivia Miranda,07/04/2010,Alevin,2010,7,4,3,FCB
+76,18,Erik RodrÃ­guez Garcia,16/04/2010,Alevin,2010,4,16,2,FCB
+77,19,Roc MartÃ­nez PÃ©rez,04/03/2010,Alevin,2010,4,3,2,FCB
+78,20,Pol Puigmal Blanco,30/04/2010,Alevin,2010,4,30,2,FCB
+79,21,Ignasi Bassas MartÃ­,04/02/2010,Alevin,2010,4,2,2,FCB
+80,22,Clifford Nana Boadi,17/04/2010,Alevin,2010,4,17,2,FCB
+81,23,Ruslan Mba Hernando,27/02/2010,Alevin,2010,2,27,1,FCB
+82,24,Juan Carlos Melgar Arteaga,17/01/2009,Alevin,2009,1,17,1,FCB
+83,25,Ãlvaro FernÃ¡ndez Miralles,16/02/2009,Alevin,2009,2,16,1,FCB
+84,26,Pau Puigverd Sarmiento,06/02/2009,Alevin,2009,6,2,2,FCB
+85,27,Biel SayÃ³s Costa,04/04/2009,Alevin,2009,4,4,2,FCB
+86,28,Joan InglÃ©s Martinez,09/04/2009,Alevin,2009,9,4,3,FCB
+87,29,Roger TeixidÃ³ Galera,10/01/2009,Alevin,2009,10,1,4,FCB
+88,30,Jordi Pesquer Barraquer,06/02/2009,Alevin,2009,6,2,2,FCB
+89,31,Bryant Villalba Idigoras,30/08/2009,Alevin,2009,8,30,3,FCB
+90,32,Michal Zuk,02/01/2009,Alevin,2009,2,1,1,FCB
+91,33,Fernando Maria Mazon Gamiz,10/01/2009,Alevin,2009,10,1,4,FCB
+92,34,Iu MartÃ­nez Juncadella,27/04/2009,Alevin,2009,4,27,2,FCB
+93,35,David Obinna Ejiofor John,26/10/2009,Alevin,2009,10,26,4,FCB
+94,36,Nabil Kaaouach,11/01/2009,Alevin,2009,11,1,4,FCB
+95,37,Gerard Valls Queralto,20/01/2009,Alevin,2009,1,20,1,FCB
+96,38,Pau EspÃ­ LÃ³pez,28/03/2009,Alevin,2009,3,28,1,FCB
+97,39,Arnau Luque Palau,12/01/2009,Alevin,2009,12,1,4,FCB
+98,40,Raul Exposito MartÃ­nez,26/04/2009,Alevin,2009,4,26,2,FCB
+99,41,Morifing Siriki Kone Sangare,30/01/2009,Alevin,2009,1,30,1,FCB
+100,42,Pau VergÃ©s Garcia,21/02/2009,Alevin,2009,2,21,1,FCB
+101,43,Sergi Mayans Mayol,30/01/2009,Alevin,2009,1,30,1,FCB
+102,44,Fran OrduÃ±a Espinosa,19/04/2009,Alevin,2009,4,19,2,FCB
+103,45,Eloi GÃ³mez Saus,08/04/2009,Alevin,2009,8,4,3,FCB
+104,46,Genis Clua Oya,02/01/2009,Alevin,2009,2,1,1,FCB
+105,47,Pedro Demiddi Gaido,08/02/2009,Alevin,2009,8,2,3,FCB
+106,48,AdriÃ  Bravo Poate,09/05/2009,Alevin,2009,9,5,3,FCB
+107,49,Ismael Ziani LÃ³pez,01/11/2009,Alevin,2009,1,11,1,FCB
