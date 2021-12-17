@@ -1,11 +1,13 @@
 # Relative age effect
 
+![image](https://user-images.githubusercontent.com/91548371/146502254-aa4b7bcb-d6aa-4d1e-a803-456c424333fd.png)
+
 
 The term relative age effect is used to describe a bias, evident in the upper echelons of youth sport and academia, where participation is higher amongst those born earlier in the relevant selection period (and lower for those born later in the selection period) than would be expected from the distribution of births.
 
 In this porject we will study this effect in different scopes in life, in sports:
 
-* football
+*  football
 *  tenis 
 *  formula-1 
 *  voleyball 
@@ -15,12 +17,12 @@ In this porject we will study this effect in different scopes in life, in sports
 And nonsport:
 
 * deputies 
-* actors, n
+* actors
 * nobel prize winners
 
 
 We will discover through the project how being born in the firsts months of the year, gives you some advantage in many areas. But also seems to be irrelevant
-in others
+in others.
 
 
 ### Libraries & packages
